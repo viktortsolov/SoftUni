@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Car Race", "2. Car Race\2. Car Race.csproj", "{6516EB22-821B-49A2-9B07-ECA8FEEC3405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Take Or Skip Rope", "3. Take Or Skip Rope\3. Take Or Skip Rope.csproj", "{99734640-5FF8-426E-8B57-E6C450F75C20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6516EB22-821B-49A2-9B07-ECA8FEEC3405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6516EB22-821B-49A2-9B07-ECA8FEEC3405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6516EB22-821B-49A2-9B07-ECA8FEEC3405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6516EB22-821B-49A2-9B07-ECA8FEEC3405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99734640-5FF8-426E-8B57-E6C450F75C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99734640-5FF8-426E-8B57-E6C450F75C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99734640-5FF8-426E-8B57-E6C450F75C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99734640-5FF8-426E-8B57-E6C450F75C20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB00FFD-41A5-4716-A9D0-3C9AF93EE427}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\bin\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Lab - Objects And Classes\02. Big Factorial\obj\Debug\netcoreapp3.1\02. Big Factorial.genruntimeconfig.cache

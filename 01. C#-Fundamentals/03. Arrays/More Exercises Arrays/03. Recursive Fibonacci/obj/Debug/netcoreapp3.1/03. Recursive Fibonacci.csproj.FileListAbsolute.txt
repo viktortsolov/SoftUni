@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp3.1\03. Recursive Fibonacci.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp3.1\03. Recursive Fibonacci.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp3.1\03. Recursive Fibonacci.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp3.1\03. Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp3.1\03. Recursive Fibonacci.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\bin\Debug\netcoreapp3.1\03. Recursive Fibonacci.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp3.1\03. Recursive Fibonacci.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp3.1\03. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp3.1\03. Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp3.1\03. Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp3.1\03. Recursive Fibonacci.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp3.1\03. Recursive Fibonacci.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\03. Recursive Fibonacci\obj\Debug\netcoreapp3.1\03. Recursive Fibonacci.genruntimeconfig.cache

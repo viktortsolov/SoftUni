@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.genruntimeconfig.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.genruntimeconfig.cache

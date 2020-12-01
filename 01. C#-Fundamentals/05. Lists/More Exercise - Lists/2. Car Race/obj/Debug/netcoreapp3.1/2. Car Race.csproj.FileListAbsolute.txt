@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\bin\Debug\netcoreapp3.1\2. Car Race.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\2. Car Race\obj\Debug\netcoreapp3.1\2. Car Race.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\6. OBJECTS AND CLASSES\Exercise - Objects And Classes\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache

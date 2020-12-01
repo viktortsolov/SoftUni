@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.genruntimeconfig.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csprojAssemblyReference.cache

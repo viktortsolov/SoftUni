@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\bin\Debug\netcoreapp3.1\Exercise Arrays.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\bin\Debug\netcoreapp3.1\Exercise Arrays.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\bin\Debug\netcoreapp3.1\Exercise Arrays.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\bin\Debug\netcoreapp3.1\Exercise Arrays.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\bin\Debug\netcoreapp3.1\Exercise Arrays.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\bin\Debug\netcoreapp3.1\Exercise Arrays.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\obj\Debug\netcoreapp3.1\Exercise Arrays.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\obj\Debug\netcoreapp3.1\Exercise Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\obj\Debug\netcoreapp3.1\Exercise Arrays.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\obj\Debug\netcoreapp3.1\Exercise Arrays.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\obj\Debug\netcoreapp3.1\Exercise Arrays.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\obj\Debug\netcoreapp3.1\Exercise Arrays.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\Exercise Arrays\Exercise Arrays\obj\Debug\netcoreapp3.1\Exercise Arrays.genruntimeconfig.cache

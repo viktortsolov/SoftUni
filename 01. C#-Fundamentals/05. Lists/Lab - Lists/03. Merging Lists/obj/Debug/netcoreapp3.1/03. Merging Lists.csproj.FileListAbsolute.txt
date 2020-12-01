@@ -1,0 +1,3 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.AssemblyInfo.cs

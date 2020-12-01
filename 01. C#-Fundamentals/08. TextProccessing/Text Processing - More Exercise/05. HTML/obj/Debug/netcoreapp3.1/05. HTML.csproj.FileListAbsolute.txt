@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.exe
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.dll
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.pdb
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.dll
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.pdb
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.genruntimeconfig.cache

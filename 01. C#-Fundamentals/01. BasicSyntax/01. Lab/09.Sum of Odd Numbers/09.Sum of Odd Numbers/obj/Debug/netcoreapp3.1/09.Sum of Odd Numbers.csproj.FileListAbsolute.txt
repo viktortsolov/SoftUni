@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09.Sum of Odd Numbers.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09.Sum of Odd Numbers.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09.Sum of Odd Numbers.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09.Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09.Sum of Odd Numbers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09.Sum of Odd Numbers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09.Sum of Odd Numbers.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09.Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09.Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09.Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09.Sum of Odd Numbers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09.Sum of Odd Numbers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\09.Sum of Odd Numbers\09.Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09.Sum of Odd Numbers.genruntimeconfig.cache

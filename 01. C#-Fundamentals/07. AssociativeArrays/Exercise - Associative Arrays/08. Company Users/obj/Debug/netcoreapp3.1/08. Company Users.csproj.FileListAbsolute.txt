@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\bin\Debug\netcoreapp3.1\08. Company Users.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.genruntimeconfig.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\Exercise - Associative Arrays\08. Company Users\obj\Debug\netcoreapp3.1\08. Company Users.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\11. Multiplication Table 2.0\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.genruntimeconfig.cache

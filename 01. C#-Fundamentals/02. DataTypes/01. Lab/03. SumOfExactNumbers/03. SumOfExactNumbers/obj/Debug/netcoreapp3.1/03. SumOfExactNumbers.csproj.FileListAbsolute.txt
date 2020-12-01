@@ -1,0 +1,12 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\bin\Debug\netcoreapp3.1\03. SumOfExactNumbers.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\bin\Debug\netcoreapp3.1\03. SumOfExactNumbers.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\bin\Debug\netcoreapp3.1\03. SumOfExactNumbers.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\bin\Debug\netcoreapp3.1\03. SumOfExactNumbers.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\bin\Debug\netcoreapp3.1\03. SumOfExactNumbers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\bin\Debug\netcoreapp3.1\03. SumOfExactNumbers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\obj\Debug\netcoreapp3.1\03. SumOfExactNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\obj\Debug\netcoreapp3.1\03. SumOfExactNumbers.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\obj\Debug\netcoreapp3.1\03. SumOfExactNumbers.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\obj\Debug\netcoreapp3.1\03. SumOfExactNumbers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\obj\Debug\netcoreapp3.1\03. SumOfExactNumbers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\03. SumOfExactNumbers\03. SumOfExactNumbers\obj\Debug\netcoreapp3.1\03. SumOfExactNumbers.genruntimeconfig.cache

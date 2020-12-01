@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\bin\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\bin\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\bin\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\bin\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\bin\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\bin\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\obj\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\obj\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\obj\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\obj\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\obj\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\obj\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\11. RefactorVolumeOfPyramide\11. RefactorVolumeOfPyramide\obj\Debug\netcoreapp3.1\11. RefactorVolumeOfPyramide.genruntimeconfig.cache

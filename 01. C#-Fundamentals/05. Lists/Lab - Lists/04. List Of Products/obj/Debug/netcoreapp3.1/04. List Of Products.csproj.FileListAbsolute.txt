@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\bin\Debug\netcoreapp3.1\04. List Of Products.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\bin\Debug\netcoreapp3.1\04. List Of Products.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\bin\Debug\netcoreapp3.1\04. List Of Products.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\bin\Debug\netcoreapp3.1\04. List Of Products.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\bin\Debug\netcoreapp3.1\04. List Of Products.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\bin\Debug\netcoreapp3.1\04. List Of Products.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\obj\Debug\netcoreapp3.1\04. List Of Products.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\obj\Debug\netcoreapp3.1\04. List Of Products.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\obj\Debug\netcoreapp3.1\04. List Of Products.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\obj\Debug\netcoreapp3.1\04. List Of Products.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\obj\Debug\netcoreapp3.1\04. List Of Products.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\obj\Debug\netcoreapp3.1\04. List Of Products.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\Lab - Lists\04. List Of Products\obj\Debug\netcoreapp3.1\04. List Of Products.genruntimeconfig.cache

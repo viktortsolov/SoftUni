@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\01. Lab\02. PoundsToDollars\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.genruntimeconfig.cache

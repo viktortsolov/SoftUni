@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.genruntimeconfig.cache

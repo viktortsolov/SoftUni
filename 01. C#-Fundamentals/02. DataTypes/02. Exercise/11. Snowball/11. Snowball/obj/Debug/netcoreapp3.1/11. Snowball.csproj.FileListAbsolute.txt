@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\bin\Debug\netcoreapp3.1\11. Snowball.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\bin\Debug\netcoreapp3.1\11. Snowball.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\bin\Debug\netcoreapp3.1\11. Snowball.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\bin\Debug\netcoreapp3.1\11. Snowball.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\bin\Debug\netcoreapp3.1\11. Snowball.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\bin\Debug\netcoreapp3.1\11. Snowball.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\obj\Debug\netcoreapp3.1\11. Snowball.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\obj\Debug\netcoreapp3.1\11. Snowball.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\obj\Debug\netcoreapp3.1\11. Snowball.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\obj\Debug\netcoreapp3.1\11. Snowball.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\obj\Debug\netcoreapp3.1\11. Snowball.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\obj\Debug\netcoreapp3.1\11. Snowball.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\11. Snowball\11. Snowball\obj\Debug\netcoreapp3.1\11. Snowball.genruntimeconfig.cache

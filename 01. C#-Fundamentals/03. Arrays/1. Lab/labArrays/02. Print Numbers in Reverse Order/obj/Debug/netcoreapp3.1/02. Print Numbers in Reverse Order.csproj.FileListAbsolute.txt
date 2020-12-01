@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\1. Lab\labArrays\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.genruntimeconfig.cache

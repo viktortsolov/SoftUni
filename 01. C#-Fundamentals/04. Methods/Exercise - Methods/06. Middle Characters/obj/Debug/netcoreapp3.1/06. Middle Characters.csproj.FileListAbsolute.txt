@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.genruntimeconfig.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csprojAssemblyReference.cache

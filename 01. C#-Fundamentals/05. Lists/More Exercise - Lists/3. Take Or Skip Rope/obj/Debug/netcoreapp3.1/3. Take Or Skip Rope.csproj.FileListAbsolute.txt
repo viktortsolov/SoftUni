@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\bin\Debug\netcoreapp3.1\3. Take Or Skip Rope.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\bin\Debug\netcoreapp3.1\3. Take Or Skip Rope.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\bin\Debug\netcoreapp3.1\3. Take Or Skip Rope.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\bin\Debug\netcoreapp3.1\3. Take Or Skip Rope.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\bin\Debug\netcoreapp3.1\3. Take Or Skip Rope.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\bin\Debug\netcoreapp3.1\3. Take Or Skip Rope.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\obj\Debug\netcoreapp3.1\3. Take Or Skip Rope.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\obj\Debug\netcoreapp3.1\3. Take Or Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\obj\Debug\netcoreapp3.1\3. Take Or Skip Rope.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\obj\Debug\netcoreapp3.1\3. Take Or Skip Rope.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\obj\Debug\netcoreapp3.1\3. Take Or Skip Rope.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\obj\Debug\netcoreapp3.1\3. Take Or Skip Rope.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\5. LISTS\More Exercise - Lists\3. Take Or Skip Rope\obj\Debug\netcoreapp3.1\3. Take Or Skip Rope.genruntimeconfig.cache

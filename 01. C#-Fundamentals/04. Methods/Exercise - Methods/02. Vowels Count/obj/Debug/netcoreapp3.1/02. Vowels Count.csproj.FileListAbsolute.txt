@@ -1,0 +1,12 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.genruntimeconfig.cache

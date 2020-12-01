@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

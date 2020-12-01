@@ -1,0 +1,12 @@
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.exe
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\8. TEXT PROCESSING\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.genruntimeconfig.cache

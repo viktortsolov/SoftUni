@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\7. ASSOCIATIVE ARRAYS\Lab - Associative Arrays\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.genruntimeconfig.cache

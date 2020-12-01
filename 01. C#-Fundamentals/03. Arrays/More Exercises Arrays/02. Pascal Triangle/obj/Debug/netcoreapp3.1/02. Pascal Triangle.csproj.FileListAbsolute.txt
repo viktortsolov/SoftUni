@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\3. ARRAYS\More Exercises Arrays\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.genruntimeconfig.cache

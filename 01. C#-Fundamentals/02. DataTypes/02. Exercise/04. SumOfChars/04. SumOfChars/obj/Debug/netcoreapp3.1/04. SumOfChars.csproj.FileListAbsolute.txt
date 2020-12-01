@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\bin\Debug\netcoreapp3.1\04. SumOfChars.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\bin\Debug\netcoreapp3.1\04. SumOfChars.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\bin\Debug\netcoreapp3.1\04. SumOfChars.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\bin\Debug\netcoreapp3.1\04. SumOfChars.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\bin\Debug\netcoreapp3.1\04. SumOfChars.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\bin\Debug\netcoreapp3.1\04. SumOfChars.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\obj\Debug\netcoreapp3.1\04. SumOfChars.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\obj\Debug\netcoreapp3.1\04. SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\obj\Debug\netcoreapp3.1\04. SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\obj\Debug\netcoreapp3.1\04. SumOfChars.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\obj\Debug\netcoreapp3.1\04. SumOfChars.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\obj\Debug\netcoreapp3.1\04. SumOfChars.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\04. SumOfChars\04. SumOfChars\obj\Debug\netcoreapp3.1\04. SumOfChars.genruntimeconfig.cache

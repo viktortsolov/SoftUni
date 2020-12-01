@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\01. Lab\12. Even Number\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.genruntimeconfig.cache

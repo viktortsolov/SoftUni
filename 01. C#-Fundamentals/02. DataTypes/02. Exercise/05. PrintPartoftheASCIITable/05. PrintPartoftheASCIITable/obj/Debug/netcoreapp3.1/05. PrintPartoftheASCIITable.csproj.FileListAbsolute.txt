@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\05. PrintPartoftheASCIITable\05. PrintPartoftheASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartoftheASCIITable.genruntimeconfig.cache

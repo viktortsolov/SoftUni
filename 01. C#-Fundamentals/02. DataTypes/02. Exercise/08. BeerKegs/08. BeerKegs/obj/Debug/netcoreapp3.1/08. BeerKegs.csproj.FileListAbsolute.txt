@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\08. BeerKegs\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.genruntimeconfig.cache

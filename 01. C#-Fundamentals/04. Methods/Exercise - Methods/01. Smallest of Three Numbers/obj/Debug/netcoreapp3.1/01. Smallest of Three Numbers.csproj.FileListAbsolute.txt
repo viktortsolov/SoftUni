@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\Exercise - Methods\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\10. Rage Expenses\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

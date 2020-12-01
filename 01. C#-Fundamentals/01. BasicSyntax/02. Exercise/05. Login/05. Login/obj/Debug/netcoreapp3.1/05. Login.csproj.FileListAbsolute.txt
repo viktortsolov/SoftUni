@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\obj\Debug\netcoreapp3.1\05. Login.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\02. Exercise\05. Login\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjvcPjd32UbXlAfZ22hF1+TA60vYBxsBPUl4A/pjWUkPySmmjP6NSvoY7KZzayTw+hRBWG1vPG2OQir9BpNt2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\1. FUNDAMENTALS\\7. ASSOCIATIVE ARRAYS\\Lab - Associative Arrays\\Lab - Associative Arrays\\Lab - Associative Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

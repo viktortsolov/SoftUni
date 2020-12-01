@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\4. METHODS\labMethods\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.genruntimeconfig.cache

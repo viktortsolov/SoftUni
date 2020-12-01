@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\2. DATA TYPES AND VARIABLES\02. Exercise\02. SumDigits\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.genruntimeconfig.cache

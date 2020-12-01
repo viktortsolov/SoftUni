@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.exe
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.deps.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.dll
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.pdb
+C:\Users\Виктор\Desktop\C#\1. FUNDAMENTALS\1. BASIC SYNTAX\03. More Ex\04. Reverse String\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.genruntimeconfig.cache

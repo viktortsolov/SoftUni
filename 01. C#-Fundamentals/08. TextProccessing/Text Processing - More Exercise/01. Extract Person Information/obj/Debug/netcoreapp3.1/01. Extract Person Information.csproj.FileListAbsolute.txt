@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.exe
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.dll
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.1\01. Extract Person Information.pdb
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.dll
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.pdb
+C:\Users\Виктор\Desktop\Projects - C#\EXAMS PREPARATION\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.1\01. Extract Person Information.genruntimeconfig.cache
