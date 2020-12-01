@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\bin\Debug\netcoreapp3.1\1. Pirates.exe
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\bin\Debug\netcoreapp3.1\1. Pirates.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\bin\Debug\netcoreapp3.1\1. Pirates.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\bin\Debug\netcoreapp3.1\1. Pirates.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\bin\Debug\netcoreapp3.1\1. Pirates.dll
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\bin\Debug\netcoreapp3.1\1. Pirates.pdb
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\obj\Debug\netcoreapp3.1\1. Pirates.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\obj\Debug\netcoreapp3.1\1. Pirates.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\obj\Debug\netcoreapp3.1\1. Pirates.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\obj\Debug\netcoreapp3.1\1. Pirates.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\obj\Debug\netcoreapp3.1\1. Pirates.dll
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\obj\Debug\netcoreapp3.1\1. Pirates.pdb
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\1. Pirates\obj\Debug\netcoreapp3.1\1. Pirates.genruntimeconfig.cache

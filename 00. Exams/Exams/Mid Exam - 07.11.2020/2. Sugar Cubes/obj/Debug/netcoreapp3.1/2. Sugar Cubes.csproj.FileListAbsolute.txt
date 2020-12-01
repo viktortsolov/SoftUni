@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\bin\Debug\netcoreapp3.1\2. Sugar Cubes.exe
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\bin\Debug\netcoreapp3.1\2. Sugar Cubes.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\bin\Debug\netcoreapp3.1\2. Sugar Cubes.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\bin\Debug\netcoreapp3.1\2. Sugar Cubes.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\bin\Debug\netcoreapp3.1\2. Sugar Cubes.dll
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\bin\Debug\netcoreapp3.1\2. Sugar Cubes.pdb
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\obj\Debug\netcoreapp3.1\2. Sugar Cubes.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\obj\Debug\netcoreapp3.1\2. Sugar Cubes.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\obj\Debug\netcoreapp3.1\2. Sugar Cubes.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\obj\Debug\netcoreapp3.1\2. Sugar Cubes.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\obj\Debug\netcoreapp3.1\2. Sugar Cubes.dll
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\obj\Debug\netcoreapp3.1\2. Sugar Cubes.pdb
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\2. Sugar Cubes\obj\Debug\netcoreapp3.1\2. Sugar Cubes.genruntimeconfig.cache

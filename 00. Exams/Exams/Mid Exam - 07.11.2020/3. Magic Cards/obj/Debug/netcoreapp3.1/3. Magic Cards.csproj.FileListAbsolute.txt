@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\bin\Debug\netcoreapp3.1\3. Magic Cards.exe
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\bin\Debug\netcoreapp3.1\3. Magic Cards.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\bin\Debug\netcoreapp3.1\3. Magic Cards.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\bin\Debug\netcoreapp3.1\3. Magic Cards.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\bin\Debug\netcoreapp3.1\3. Magic Cards.dll
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\bin\Debug\netcoreapp3.1\3. Magic Cards.pdb
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\obj\Debug\netcoreapp3.1\3. Magic Cards.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\obj\Debug\netcoreapp3.1\3. Magic Cards.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\obj\Debug\netcoreapp3.1\3. Magic Cards.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\obj\Debug\netcoreapp3.1\3. Magic Cards.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\obj\Debug\netcoreapp3.1\3. Magic Cards.dll
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\obj\Debug\netcoreapp3.1\3. Magic Cards.pdb
+C:\Users\Виктор\Desktop\Projects - C#\0. EXAMS\Mid Exam - 07.11.2020\3. Magic Cards\obj\Debug\netcoreapp3.1\3. Magic Cards.genruntimeconfig.cache
