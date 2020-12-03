@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.exe
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\Виктор\Desktop\Projects - C#\1. FUNDAMENTALS\9. REGULAR EXPRESSIONS\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.genruntimeconfig.cache
