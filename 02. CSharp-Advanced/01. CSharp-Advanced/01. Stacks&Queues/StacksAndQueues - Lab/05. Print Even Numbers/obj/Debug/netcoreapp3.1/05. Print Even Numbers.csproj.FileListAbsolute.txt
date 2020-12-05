@@ -1,0 +1,12 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\bin\Debug\netcoreapp3.1\05. Print Even Numbers.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\bin\Debug\netcoreapp3.1\05. Print Even Numbers.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\bin\Debug\netcoreapp3.1\05. Print Even Numbers.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\bin\Debug\netcoreapp3.1\05. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\bin\Debug\netcoreapp3.1\05. Print Even Numbers.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\bin\Debug\netcoreapp3.1\05. Print Even Numbers.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\obj\Debug\netcoreapp3.1\05. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\obj\Debug\netcoreapp3.1\05. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\obj\Debug\netcoreapp3.1\05. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\obj\Debug\netcoreapp3.1\05. Print Even Numbers.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\obj\Debug\netcoreapp3.1\05. Print Even Numbers.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\05. Print Even Numbers\obj\Debug\netcoreapp3.1\05. Print Even Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.genruntimeconfig.cache

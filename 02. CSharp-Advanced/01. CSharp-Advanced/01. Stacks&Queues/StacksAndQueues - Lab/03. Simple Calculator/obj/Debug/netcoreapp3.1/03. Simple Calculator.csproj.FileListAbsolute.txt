@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\bin\Debug\netcoreapp3.1\03. Simple Calculator.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\03. Simple Calculator\obj\Debug\netcoreapp3.1\03. Simple Calculator.genruntimeconfig.cache

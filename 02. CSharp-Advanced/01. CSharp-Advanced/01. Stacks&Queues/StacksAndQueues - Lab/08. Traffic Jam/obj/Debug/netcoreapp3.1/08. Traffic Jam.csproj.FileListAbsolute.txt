@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\bin\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\08. Traffic Jam\obj\Debug\netcoreapp3.1\08. Traffic Jam.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\bin\Debug\netcoreapp3.1\02. Stack Sum.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Lab\02. Stack Sum\obj\Debug\netcoreapp3.1\02. Stack Sum.genruntimeconfig.cache
