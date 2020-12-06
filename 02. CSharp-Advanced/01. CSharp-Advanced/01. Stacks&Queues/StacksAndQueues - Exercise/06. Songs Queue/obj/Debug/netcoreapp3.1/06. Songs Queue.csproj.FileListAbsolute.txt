@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.genruntimeconfig.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\01. Stacks&Queues\StacksAndQueues - Exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csprojAssemblyReference.cache
