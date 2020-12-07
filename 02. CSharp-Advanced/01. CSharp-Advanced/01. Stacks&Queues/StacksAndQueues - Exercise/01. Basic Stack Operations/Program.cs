@@ -35,7 +35,7 @@ namespace _01._Basic_Stack_Operations
             }
 
             bool isFound = stack.Contains(numToFind);
-            if (stack.Count > 0)
+            if (stack.Any())
             {
                 if (isFound)
                 {

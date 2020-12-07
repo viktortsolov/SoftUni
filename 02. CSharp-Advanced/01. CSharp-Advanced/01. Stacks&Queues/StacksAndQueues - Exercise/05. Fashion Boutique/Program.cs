@@ -13,30 +13,27 @@ namespace _05._Fashion_Boutique
                 .Select(int.Parse)
                 .ToArray();
 
-            Stack<int> numbers = new Stack<int>(array);
+            Stack<int> boxes = new Stack<int>(array);
 
             int rackCapacity = int.Parse(Console.ReadLine());
 
             int racks = 1;
-            int sum = 0;
+            int currentCapacity = rackCapacity;
 
-            while (numbers.Count > 0)
+            while (boxes.Any())
             {
-                if (sum + numbers.Peek() > rackCapacity)
+                int cloth = boxes.Peek();
+
+                if (currentCapacity >= cloth)
                 {
-                    racks++;
-                    sum = 0;
-                }
-                else if (sum + numbers.Peek() == rackCapacity)
-                {
-                    racks++;
-                    sum = 0;
-                    numbers.Pop();
+                    currentCapacity -= cloth;
+                    boxes.Pop();
                 }
                 else
                 {
-                    sum += numbers.Pop();
-                }
+                    racks++;
+                    currentCapacity = rackCapacity;
+                }    
             }
             Console.WriteLine(racks);
         }
