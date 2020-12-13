@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\bin\Debug\netcoreapp3.1\01. Problem.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\bin\Debug\netcoreapp3.1\01. Problem.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\bin\Debug\netcoreapp3.1\01. Problem.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\bin\Debug\netcoreapp3.1\01. Problem.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\bin\Debug\netcoreapp3.1\01. Problem.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\bin\Debug\netcoreapp3.1\01. Problem.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\obj\Debug\netcoreapp3.1\01. Problem.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\obj\Debug\netcoreapp3.1\01. Problem.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\obj\Debug\netcoreapp3.1\01. Problem.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\obj\Debug\netcoreapp3.1\01. Problem.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\obj\Debug\netcoreapp3.1\01. Problem.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\obj\Debug\netcoreapp3.1\01. Problem.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\00. Exams\Exams\Final Exam - 13.12.2020\01. Problem\obj\Debug\netcoreapp3.1\01. Problem.genruntimeconfig.cache
