@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\bin\Debug\netcoreapp3.1\01. CountSameValues.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\bin\Debug\netcoreapp3.1\01. CountSameValues.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\bin\Debug\netcoreapp3.1\01. CountSameValues.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\bin\Debug\netcoreapp3.1\01. CountSameValues.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\bin\Debug\netcoreapp3.1\01. CountSameValues.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\bin\Debug\netcoreapp3.1\01. CountSameValues.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\obj\Debug\netcoreapp3.1\01. CountSameValues.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\obj\Debug\netcoreapp3.1\01. CountSameValues.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\obj\Debug\netcoreapp3.1\01. CountSameValues.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\obj\Debug\netcoreapp3.1\01. CountSameValues.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\obj\Debug\netcoreapp3.1\01. CountSameValues.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\obj\Debug\netcoreapp3.1\01. CountSameValues.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Lab\01. CountSameValues\obj\Debug\netcoreapp3.1\01. CountSameValues.genruntimeconfig.cache
