@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.genruntimeconfig.cache

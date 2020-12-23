@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. EvenTimes.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. EvenTimes.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. EvenTimes.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. EvenTimes.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. EvenTimes.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. EvenTimes.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. EvenTimes.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. EvenTimes.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. EvenTimes.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. EvenTimes.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\03. SetsAndDictionaries - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. EvenTimes.genruntimeconfig.cache
