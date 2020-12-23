@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\3. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.genruntimeconfig.cache

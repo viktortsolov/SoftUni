@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\bin\Debug\netcoreapp3.1\10. Bunnies.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\bin\Debug\netcoreapp3.1\10. Bunnies.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\bin\Debug\netcoreapp3.1\10. Bunnies.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\bin\Debug\netcoreapp3.1\10. Bunnies.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\bin\Debug\netcoreapp3.1\10. Bunnies.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\bin\Debug\netcoreapp3.1\10. Bunnies.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\obj\Debug\netcoreapp3.1\10. Bunnies.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\obj\Debug\netcoreapp3.1\10. Bunnies.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\obj\Debug\netcoreapp3.1\10. Bunnies.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\obj\Debug\netcoreapp3.1\10. Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\obj\Debug\netcoreapp3.1\10. Bunnies.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\obj\Debug\netcoreapp3.1\10. Bunnies.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\02. Multidimensional Arrays\MultidimensionalArrays\10. Bunnies\obj\Debug\netcoreapp3.1\10. Bunnies.genruntimeconfig.cache
