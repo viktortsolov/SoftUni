@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.1\02. Sum Numbers.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.1\02. Sum Numbers.genruntimeconfig.cache
