@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\bin\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\05. FunctionalProgramming - Exercise\02. Knights of Honor\obj\Debug\netcoreapp3.1\02. Knights of Honor.genruntimeconfig.cache
