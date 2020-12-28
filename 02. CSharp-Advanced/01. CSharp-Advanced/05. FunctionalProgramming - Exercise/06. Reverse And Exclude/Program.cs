@@ -9,16 +9,15 @@ namespace _06._Reverse_And_Exclude
         static void Main(string[] args)
         {
             var numbers = Console.ReadLine()
-                .Split()
+                .Split(new char[] { ' ', '\t', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse);
 
-            int number = int.Parse(Console.ReadLine());
+            var divisor = int.Parse(Console.ReadLine());
+            Func<int, bool> filter = n => n % divisor != 0;
 
-            Predicate<int> filter = x => x % 2 != 0;
-            Func<int, bool> filterFunc = x => filter(x);
+            var remainingNumbers = numbers.Reverse().Where(filter);
 
-            numbers = numbers.Where(filterFunc);
-            Console.WriteLine(string.Join(" ", numbers.Reverse()));
+            Console.WriteLine(string.Join(" ", remainingNumbers));
         }
     }
 }
