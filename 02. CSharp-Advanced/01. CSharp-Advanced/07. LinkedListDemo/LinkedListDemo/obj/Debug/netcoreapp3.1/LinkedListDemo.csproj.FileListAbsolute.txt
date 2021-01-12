@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\07. LinkedListDemo\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.genruntimeconfig.cache
