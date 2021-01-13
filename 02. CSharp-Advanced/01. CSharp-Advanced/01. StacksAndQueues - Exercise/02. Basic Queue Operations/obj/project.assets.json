@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+      "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
       "projectName": "02. Basic Queue Operations",
-      "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+      "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
       "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\02. Basic Queue Operations\\obj\\",
+      "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\02. Basic Queue Operations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",

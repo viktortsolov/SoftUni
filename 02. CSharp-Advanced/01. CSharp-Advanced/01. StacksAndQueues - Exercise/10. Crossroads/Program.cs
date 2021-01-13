@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _10._Crossroads
 {
@@ -8,33 +9,57 @@ namespace _10._Crossroads
         static void Main(string[] args)
         {
             int seconds = int.Parse(Console.ReadLine());
-            int freeWindow = int.Parse(Console.ReadLine());
-
-            int secondToPass = seconds + freeWindow;
-            int track = 0;
+            int freeWindows = int.Parse(Console.ReadLine());
 
             Queue<string> cars = new Queue<string>();
 
-            string input = string.Empty;
+            int counter = 0;
 
-            while ((input = Console.ReadLine()) != "END")
+            while (true)
             {
-                if (input == "green")
+                string car = Console.ReadLine();
+
+                int greenLights = seconds;
+                int passSeconds = freeWindows;
+
+                if (car == "END")
                 {
-                    foreach (var item in cars)
+                    Console.WriteLine($"Everyone is safe.{Environment.NewLine}" +
+                        $"{counter} total cars passed the crossroads.");
+                    return;
+                }
+
+                if (car == "green")
+                {
+                    while (greenLights > 0 && cars.Count != 0)
                     {
-                        for (int i = 0; i < item.Length; i++)
+
+                        string firstInQueue = cars.Dequeue();
+                        greenLights -= firstInQueue.Count();
+                        if (greenLights >= 0)
                         {
-                            track++;
-                            if (track > secondToPass)
+                            counter++;
+                        }
+
+                        else
+                        {
+                            passSeconds += greenLights;
+                            if (passSeconds < 0)
                             {
-                                Console.WriteLine("ERROR");
-                                break;
+                                Console.WriteLine($"A crash happened!{Environment.NewLine}" +
+                                    $"{firstInQueue} was hit at" +
+                                    $" {firstInQueue[firstInQueue.Length + passSeconds]}.");
+                                return;
                             }
+                            counter++;
                         }
                     }
                 }
-                cars.Enqueue(input);
+
+                else
+                {
+                    cars.Enqueue(car);
+                }
             }
         }
     }

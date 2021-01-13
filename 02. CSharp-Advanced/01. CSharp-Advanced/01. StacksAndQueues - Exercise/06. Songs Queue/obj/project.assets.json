@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj",
+      "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj",
       "projectName": "06. Songs Queue",
-      "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj",
+      "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj",
       "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\06. Songs Queue\\obj\\",
+      "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\06. Songs Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",

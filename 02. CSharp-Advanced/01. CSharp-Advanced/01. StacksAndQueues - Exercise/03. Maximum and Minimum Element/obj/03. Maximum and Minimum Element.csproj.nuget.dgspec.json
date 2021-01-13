@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {}
+    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {
+    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+        "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
         "projectName": "03. Maximum and Minimum Element",
-        "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+        "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
         "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\obj\\",
+        "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\03. Maximum and Minimum Element\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",

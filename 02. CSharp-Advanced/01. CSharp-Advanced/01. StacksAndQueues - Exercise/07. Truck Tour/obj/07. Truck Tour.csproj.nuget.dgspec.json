@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj": {}
+    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj": {
+    "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj",
+        "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj",
         "projectName": "07. Truck Tour",
-        "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj",
+        "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj",
         "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. Stacks&Queues\\StacksAndQueues - Exercise\\07. Truck Tour\\obj\\",
+        "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\01. StacksAndQueues - Exercise\\07. Truck Tour\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",
