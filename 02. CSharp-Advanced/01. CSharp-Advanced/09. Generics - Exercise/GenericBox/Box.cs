@@ -26,7 +26,7 @@ namespace GenericBox
 
             foreach (T value in Values)
             {
-                if (element.CompareTo(value) > 0)
+                if (element.CompareTo(value) < 0)
                 {
                     counter++;
                 }
