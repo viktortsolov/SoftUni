@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\bin\Debug\netcoreapp3.1\GenericBox.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\09. Generics - Exercise\GenericBox\obj\Debug\netcoreapp3.1\GenericBox.genruntimeconfig.cache
