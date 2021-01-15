@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.genruntimeconfig.cache

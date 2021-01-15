@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Scheduling", "01. Sched
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Garden", "02. Garden\02. Garden.csproj", "{97C9015F-7F55-4E7A-BA77-917D06166903}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Selling", "02. Selling\02. Selling.csproj", "{D149FC9C-2A68-4942-A080-AC6378AE6DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{97C9015F-7F55-4E7A-BA77-917D06166903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97C9015F-7F55-4E7A-BA77-917D06166903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97C9015F-7F55-4E7A-BA77-917D06166903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D149FC9C-2A68-4942-A080-AC6378AE6DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D149FC9C-2A68-4942-A080-AC6378AE6DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D149FC9C-2A68-4942-A080-AC6378AE6DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D149FC9C-2A68-4942-A080-AC6378AE6DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
