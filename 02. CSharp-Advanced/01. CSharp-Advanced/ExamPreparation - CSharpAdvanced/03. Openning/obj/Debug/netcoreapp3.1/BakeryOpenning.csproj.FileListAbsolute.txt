@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\03. Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\Виктор\Desktop\03. Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\Виктор\Desktop\03. Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\Виктор\Desktop\03. Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\03. Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Виктор\Desktop\03. Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Виктор\Desktop\03. Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\03. Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\03. Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\03. Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\03. Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\Виктор\Desktop\03. Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\Виктор\Desktop\03. Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache
