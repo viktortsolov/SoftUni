@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.genruntimeconfig.cache
