@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.genruntimeconfig.cache
