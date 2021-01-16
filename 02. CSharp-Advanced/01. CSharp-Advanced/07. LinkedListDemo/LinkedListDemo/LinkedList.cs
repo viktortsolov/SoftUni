@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
 namespace LinkedListDemo
 {
-    public class LinkedList
+    public class LinkedList : IEnumerable<Node>
     {
         public Node Head { get; set; }
         public Node Tail { get; set; }
@@ -114,6 +115,21 @@ namespace LinkedListDemo
             List<Node> list = new List<Node>();
             this.ForEach(node => list.Add(node));
             return list.ToArray();
+        }
+
+        public IEnumerator<Node> GetEnumerator()
+        {
+            Node currentNode = Head;
+            while (currentNode != null)
+            {
+                yield return currentNode;
+                currentNode = currentNode.Next;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }

@@ -18,6 +18,10 @@ namespace LinkedListDemo
                 list.AddLast(new Node(i));
             }
 
+            foreach (var node in list)
+            {
+                Console.WriteLine(node.Value);
+            }
             list.RemoveFirst();
             list.RemoveFirst();
             list.RemoveFirst();
