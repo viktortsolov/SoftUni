@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\bin\Debug\netcoreapp3.1\NFactorial.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\00. Recursion - Bonus\NFactorial\obj\Debug\netcoreapp3.1\NFactorial.genruntimeconfig.cache
