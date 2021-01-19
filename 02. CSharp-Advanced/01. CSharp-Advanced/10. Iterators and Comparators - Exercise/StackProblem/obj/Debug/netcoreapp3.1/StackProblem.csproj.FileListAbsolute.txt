@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\10. Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.genruntimeconfig.cache
