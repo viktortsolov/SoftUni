@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\02. Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache
