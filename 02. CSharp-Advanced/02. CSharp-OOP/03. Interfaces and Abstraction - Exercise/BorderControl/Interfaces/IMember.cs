@@ -1,7 +1,8 @@
 ﻿namespace BorderControl.Interfaces
 {
-    public interface IMember : ICitizen, IRobot
+    public interface IMember : ICitizen, IRobot, IPet
     {
-        string Id { get; set; }
+        long Id { get; set; }
+        string Birthdate { get; set; }
     }
 }

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using BorderControl.Interfaces;
 using BorderControl.Models;
 
@@ -15,30 +14,30 @@ namespace BorderControl
             while ((input = Console.ReadLine()) != "End")
             {
                 var inputTokens = input.Split();
-                if (inputTokens.Length == 3)
+                var type = inputTokens[0];
+                switch (type)
                 {
-                    var name = inputTokens[0];
-                    var age = int.Parse(inputTokens[1]);
-                    var id = inputTokens[2];
-                    IMember citizen = new Member(name, age, id);
-                    members.Add(citizen);
-                }
-                else if (inputTokens.Length == 2)
-                {
-                    var model = inputTokens[0];
-                    var id = inputTokens[1];
-                    IMember robot = new Member(model, id);
-                    members.Add(robot);
+                    case "Citizen":
+                        IMember citizen = new Member(inputTokens[1], int.Parse(inputTokens[2]), long.Parse(inputTokens[3]), inputTokens[4]);
+                        members.Add(citizen);
+                        break;
+                    case "Pet":
+                        IMember pet = new Member(inputTokens[1], inputTokens[2]);
+                        members.Add(pet);
+                        break;
+                    case "Robot":
+                        IMember robot = new Member(inputTokens[1], long.Parse(inputTokens[2]));
+                        break;
                 }
             }
 
-            var fakeId = Console.ReadLine();
+            var searchedYear = Console.ReadLine();
 
             foreach (var member in members)
             {
-                if (member.Id.EndsWith(fakeId))
+                if (member.Birthdate.EndsWith(searchedYear))
                 {
-                    Console.WriteLine(member.Id);
+                    Console.WriteLine(member.Birthdate);
                 }
             }
         }
