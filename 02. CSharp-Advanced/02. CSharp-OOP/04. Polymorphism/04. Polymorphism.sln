@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{C25F62D5-C42D-4BFB-9CD8-F441253AF9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{CBD3700B-BE91-47FA-92C5-3241C27C082C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25F62D5-C42D-4BFB-9CD8-F441253AF9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25F62D5-C42D-4BFB-9CD8-F441253AF9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25F62D5-C42D-4BFB-9CD8-F441253AF9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25F62D5-C42D-4BFB-9CD8-F441253AF9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD3700B-BE91-47FA-92C5-3241C27C082C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD3700B-BE91-47FA-92C5-3241C27C082C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD3700B-BE91-47FA-92C5-3241C27C082C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD3700B-BE91-47FA-92C5-3241C27C082C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BD938F-8AEE-4DED-AF04-2A2E24B0E131}
+	EndGlobalSection
+EndGlobal
