@@ -6,7 +6,14 @@ namespace _05._Convert.ToDouble
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                double number = double.Parse(Console.ReadLine());
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("TYhe number was in incorrect format.");
+            }
         }
     }
 }

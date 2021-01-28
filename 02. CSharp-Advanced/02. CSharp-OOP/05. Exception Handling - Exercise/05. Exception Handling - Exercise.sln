@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Convert.ToDouble", "05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Valid Person", "06. Valid Person\06. Valid Person.csproj", "{ECF92C58-A769-4022-9749-9E5F3D4ABC9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Custom Exception", "07. Custom Exception\07. Custom Exception.csproj", "{0FCEA07D-F455-42E5-8429-826F30BE355F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{ECF92C58-A769-4022-9749-9E5F3D4ABC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF92C58-A769-4022-9749-9E5F3D4ABC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF92C58-A769-4022-9749-9E5F3D4ABC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCEA07D-F455-42E5-8429-826F30BE355F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCEA07D-F455-42E5-8429-826F30BE355F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCEA07D-F455-42E5-8429-826F30BE355F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCEA07D-F455-42E5-8429-826F30BE355F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

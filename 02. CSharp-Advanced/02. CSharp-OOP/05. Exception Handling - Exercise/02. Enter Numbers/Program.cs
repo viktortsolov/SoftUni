@@ -6,7 +6,26 @@ namespace _02._Enter_Numbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n = int.Parse(Console.ReadLine());
+            int[] numbers = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                try
+                {
+                    numbers[i] = int.Parse(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("The entered number was not in correct format.");
+                }
+                catch (NotFiniteNumberException)
+                {
+                    Console.WriteLine("The number was invalid!");
+                }
+            }
+
+            Console.WriteLine(string.Join(", ", numbers));
         }
     }
 }

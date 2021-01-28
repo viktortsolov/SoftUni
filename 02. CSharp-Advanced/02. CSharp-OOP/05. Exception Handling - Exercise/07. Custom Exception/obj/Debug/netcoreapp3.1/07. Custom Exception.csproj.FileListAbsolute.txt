@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\bin\Debug\netcoreapp3.1\07. Custom Exception.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\bin\Debug\netcoreapp3.1\07. Custom Exception.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\bin\Debug\netcoreapp3.1\07. Custom Exception.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\bin\Debug\netcoreapp3.1\07. Custom Exception.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\bin\Debug\netcoreapp3.1\07. Custom Exception.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\bin\Debug\netcoreapp3.1\07. Custom Exception.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\obj\Debug\netcoreapp3.1\07. Custom Exception.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\obj\Debug\netcoreapp3.1\07. Custom Exception.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\obj\Debug\netcoreapp3.1\07. Custom Exception.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\obj\Debug\netcoreapp3.1\07. Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\obj\Debug\netcoreapp3.1\07. Custom Exception.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\obj\Debug\netcoreapp3.1\07. Custom Exception.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\07. Custom Exception\obj\Debug\netcoreapp3.1\07. Custom Exception.genruntimeconfig.cache
