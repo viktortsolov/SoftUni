@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\bin\Debug\netcoreapp3.1\04. Fixing Vol2.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\bin\Debug\netcoreapp3.1\04. Fixing Vol2.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\bin\Debug\netcoreapp3.1\04. Fixing Vol2.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\bin\Debug\netcoreapp3.1\04. Fixing Vol2.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\bin\Debug\netcoreapp3.1\04. Fixing Vol2.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\bin\Debug\netcoreapp3.1\04. Fixing Vol2.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\obj\Debug\netcoreapp3.1\04. Fixing Vol2.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\obj\Debug\netcoreapp3.1\04. Fixing Vol2.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\obj\Debug\netcoreapp3.1\04. Fixing Vol2.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\obj\Debug\netcoreapp3.1\04. Fixing Vol2.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\obj\Debug\netcoreapp3.1\04. Fixing Vol2.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\obj\Debug\netcoreapp3.1\04. Fixing Vol2.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\05. Exception Handling - Exercise\04. Fixing Vol2\obj\Debug\netcoreapp3.1\04. Fixing Vol2.genruntimeconfig.cache
