@@ -1,22 +1,26 @@
-﻿using Logger.Layouts;
+﻿using Logger.Common;
+using Logger.Layouts;
+using System;
 
 namespace Logger.Appenders
 {
-    class FileAppender : IAppender
+    public class FileAppender : Appender
     {
         private readonly ILogFile logFile;
+
         public FileAppender(ILayout layout, ILogFile logFile)
+            : base(layout)
         {
-            Layout = layout;
             this.logFile = logFile;
         }
 
-        public ILayout Layout { get; }
-
-        public void Append(string dateTime, string reportLevel, string message)
+        public override void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            string result = string.Format(Layout.Template, dateTime, reportLevel, message);
-            logFile.Write(result);
+            if (reportLevel >= this.ReportLevel)
+            {
+                string result = string.Format(this.Layout.Template, dateTime, reportLevel, message) + Environment.NewLine;
+                this.logFile.Write(result);
+            }
         }
     }
 }

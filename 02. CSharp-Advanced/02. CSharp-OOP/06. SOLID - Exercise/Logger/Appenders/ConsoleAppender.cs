@@ -1,20 +1,23 @@
-﻿using Logger.Layouts;
+﻿using Logger.Common;
+using Logger.Layouts;
+using System;
 
 namespace Logger.Appenders
 {
-    public class ConsoleAppender : IAppender
+    public class ConsoleAppender : Appender
     {
         public ConsoleAppender(ILayout layout)
+            : base(layout)
         {
-            Layout = layout;
         }
 
-        public ILayout Layout { get; }
-
-        public void Append(string dateTime, string reportLevel, string message)
+        public override void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            string result = string.Format(Layout.Template, dateTime, reportLevel, message);
-            System.Console.WriteLine(result);
+            if (reportLevel >= this.ReportLevel)
+            {
+                string result = string.Format(Layout.Template, dateTime, reportLevel, message) + Environment.NewLine;
+                System.Console.Write(result);
+            }
         }
     }
 }
