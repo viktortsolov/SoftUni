@@ -1,0 +1,4 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\06. SOLID - Exercise\LoggerExercise\obj\Debug\netcoreapp3.1\LoggerExercise.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\06. SOLID - Exercise\LoggerExercise\obj\Debug\netcoreapp3.1\LoggerExercise.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\06. SOLID - Exercise\LoggerExercise\obj\Debug\netcoreapp3.1\LoggerExercise.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\06. SOLID - Exercise\LoggerExercise\obj\Debug\netcoreapp3.1\LoggerExercise.csproj.CoreCompileInputs.cache
