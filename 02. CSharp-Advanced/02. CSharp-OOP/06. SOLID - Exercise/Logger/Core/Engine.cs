@@ -1,12 +1,15 @@
-﻿using System;
+﻿using Logger.Appenders;
+using System;
 
 namespace Logger.Core
 {
     public class Engine : IEngine
     {
-        public void Run()
+        public void Run(int countOfAppenders)
         {
-            int n = int.Parse(Console.ReadLine());
+            IAppender[] appenders = new IAppender[countOfAppenders];
+
+
         }
     }
 }
