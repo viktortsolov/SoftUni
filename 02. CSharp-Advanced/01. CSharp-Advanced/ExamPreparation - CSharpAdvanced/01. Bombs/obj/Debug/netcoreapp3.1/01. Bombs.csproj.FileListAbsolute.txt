@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.exe
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.deps.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.dev.json
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.dll
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.pdb
+C:\Users\Виктор\Desktop\Projects - C#\SoftUni\02. CSharp-Advanced\01. CSharp-Advanced\ExamPreparation - CSharpAdvanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.genruntimeconfig.cache
