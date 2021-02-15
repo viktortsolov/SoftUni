@@ -9,99 +9,83 @@ namespace _01._Cooking
     {
         static void Main(string[] args)
         {
-            Queue<int> liquids = new Queue<int>
-                (Console.ReadLine()       
-                        .Split()
-                        .Select(int.Parse));
+            Queue<int> liquids = new Queue<int>(Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse));
 
-            Stack<int> ingrediants = new Stack<int>
-                (Console.ReadLine()
-                        .Split()
-                        .Select(int.Parse));
+            Stack<int> ingrediants = new Stack<int>(Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse));
 
             int breads = 0;
             int cakes = 0;
             int pastries = 0;
             int fruitPies = 0;
 
-            while (liquids.Count > 0 && ingrediants.Count > 0)
+            bool areCooked = false;
+            bool areEmpty = false;
+
+            StringBuilder stringBuilder = new StringBuilder();
+            while (!areEmpty)
             {
-                int sum = liquids.Dequeue() + ingrediants.Peek();
+                int liquid = liquids.Dequeue();
+                int ingrediant = ingrediants.Pop();
 
-                if (sum == 25)
+                int sum = liquid + ingrediant;
+                switch (sum)
                 {
-                    breads++;
-                    ingrediants.Pop();
+                    case 25:
+                        breads++;
+                        break;
 
-                }
-                else if(sum == 50)
-                {
-                    cakes++;
-                    ingrediants.Pop();
+                    case 50:
+                        cakes++;
+                        break;
 
-                }
-                else if(sum == 75)
-                {
-                    pastries++;
-                    ingrediants.Pop();
-                }
-                else if (sum == 100)
-                {
-                    fruitPies++;
-                    ingrediants.Pop();
-                }
-                else
-                {
-                    int[] array = new int[ingrediants.Count];
+                    case 75:
+                        pastries++;
+                        break;
 
-                    for (int i = 0; i < array.Length; i++)
-                    {
-                        array[i] = ingrediants.Pop() + 3;
-                    }
+                    case 100:
+                        fruitPies++;
+                        break;
 
-                    array = array.Reverse().ToArray();
-                    foreach (var item in array)
-                    {
-                        ingrediants.Push(item);
-                    }
+                    default:
+                        ingrediants.Push(ingrediant + 3);
+                        break;
                 }
+
+                areCooked = breads > 0 && cakes > 0 && pastries > 0 && fruitPies > 0;
+                areEmpty = liquids.Count == 0 || ingrediants.Count == 0;
+
             }
 
-            StringBuilder sb = new StringBuilder();
 
-            if (breads > 0 && cakes > 0 && pastries > 0 && fruitPies > 0)
+            if (areCooked)
             {
-                sb.AppendLine($"Wohoo! You succeeded in cooking all the food!");
+                stringBuilder.AppendLine("Wohoo! You succeeded in cooking all the food!");
+
+                string resultLiquids = liquids.Count == 0 ? "none" : string.Join(", ", liquids);
+                stringBuilder.AppendLine($"Liquids left: {resultLiquids}");
+
+                string resultIngrediants = ingrediants.Count == 0 ? "none" : string.Join(", ", ingrediants);
+                stringBuilder.AppendLine($"Ingredients left: {resultIngrediants}");
+
+                stringBuilder.AppendLine($"Bread: {breads}\nCake: {cakes}\nFruit Pie: {fruitPies}\nPastry: {pastries}");
             }
             else
             {
-                sb.AppendLine($"Ugh, what a pity! You didn't have enough materials to cook everything.");
-            }
+                stringBuilder.AppendLine("Ugh, what a pity! You didn't have enough materials to cook everything.");
 
-            if (liquids.Count > 0)
-            {
-                sb.AppendLine($"Liquids left: {string.Join(", ", liquids)}");
-            }
-            else
-            {
-                sb.AppendLine($"Liquids left: none");
-            }
+                string resultLiquids = liquids.Count == 0 ? "none" : string.Join(", ", liquids);
+                stringBuilder.AppendLine($"Liquids left: {resultLiquids}");
 
-            if (ingrediants.Count > 0)
-            {
-                sb.AppendLine($"Ingredients left: {string.Join(", ", ingrediants)}");
-            }
-            else
-            {
-                sb.AppendLine($"Ingredients left: none");
-            }
+                string resultIngrediants = ingrediants.Count == 0 ? "none" : string.Join(", ", ingrediants);
+                stringBuilder.AppendLine($"Ingredients left: {resultIngrediants}");
 
-            sb.AppendLine($"Bread: {breads}");
-            sb.AppendLine($"Cake: {cakes}");
-            sb.AppendLine($"Fruit Pie: {fruitPies}");
-            sb.AppendLine($"Pastry: {pastries}");
-
-            Console.WriteLine(sb.ToString());
+                stringBuilder.AppendLine($"Bread: {breads}\nCake: {cakes}\nFruit Pie: {fruitPies}\nPastry: {pastries}");
+            }
+            Console.WriteLine(stringBuilder.ToString().Trim());
         }
     }
 }
