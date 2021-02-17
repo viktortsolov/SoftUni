@@ -49,12 +49,12 @@ namespace _02._Garden
                 }
             }
 
-            StringBuilder sb = new StringBuilder();
             for (int row = 0; row < dimensions[0]; row++)
             {
                 for (int col = 0; col < dimensions[1]; col++)
                 {
-                    sb.Append($"{matrix[row, col]} ");
+                    string number = matrix[row, col].ToString();
+                    Console.Write($"{number} ");
                 }
                 Console.WriteLine();
             }

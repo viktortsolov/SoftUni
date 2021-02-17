@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jSG/GF33dmkYNotpDISnXCBEO5FxM9AZJhPmZBHxoshNE7JnkpCi3DK2dlunUUw2RevZHSQbLicG8AZOzYUYdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\01. CSharp-Advanced\\ExamPreparaion - CSharpAdvanced (Max Points)\\03. Guild\\Guild\\Guild.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
