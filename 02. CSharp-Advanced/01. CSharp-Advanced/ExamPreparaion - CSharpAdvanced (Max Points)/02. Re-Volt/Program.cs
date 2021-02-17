@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _02._Re_Volt
 {
@@ -164,14 +165,18 @@ namespace _02._Re_Volt
 
         private static void Print(char[,] matrix)
         {
+            StringBuilder stringBuilder = new StringBuilder();
+
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    Console.Write(matrix[row, col]);
+                    stringBuilder.Append(matrix[row, col]);
                 }
-                Console.WriteLine();
+                stringBuilder.AppendLine();
             }
+
+            Console.WriteLine(stringBuilder.ToString().TrimEnd());
         }
     }
 }

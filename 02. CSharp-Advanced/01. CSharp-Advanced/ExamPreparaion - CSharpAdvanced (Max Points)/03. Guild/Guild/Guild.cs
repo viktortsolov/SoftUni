@@ -32,7 +32,6 @@ namespace Guild
                 this.roster.Add(player);
             }
         }
-        //NOT SURE FOR THIS ONE
         public bool RemovePlayer(string name)
         {
             Player player = this.roster.FirstOrDefault(x => x.Name == name);
