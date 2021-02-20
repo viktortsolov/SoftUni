@@ -1,0 +1,13 @@
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\bin\Debug\netcoreapp3.1\1. Problem.exe
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\bin\Debug\netcoreapp3.1\1. Problem.deps.json
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\bin\Debug\netcoreapp3.1\1. Problem.runtimeconfig.json
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\bin\Debug\netcoreapp3.1\1. Problem.runtimeconfig.dev.json
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\bin\Debug\netcoreapp3.1\1. Problem.dll
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\bin\Debug\netcoreapp3.1\1. Problem.pdb
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\obj\Debug\netcoreapp3.1\1. Problem.csprojAssemblyReference.cache
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\obj\Debug\netcoreapp3.1\1. Problem.AssemblyInfoInputs.cache
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\obj\Debug\netcoreapp3.1\1. Problem.AssemblyInfo.cs
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\obj\Debug\netcoreapp3.1\1. Problem.csproj.CoreCompileInputs.cache
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\obj\Debug\netcoreapp3.1\1. Problem.dll
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\obj\Debug\netcoreapp3.1\1. Problem.pdb
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\1. Problem\obj\Debug\netcoreapp3.1\1. Problem.genruntimeconfig.cache

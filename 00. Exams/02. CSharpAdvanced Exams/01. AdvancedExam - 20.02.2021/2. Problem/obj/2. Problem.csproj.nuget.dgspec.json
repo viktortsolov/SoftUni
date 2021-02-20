@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\SoftUni\\00. Exams\\02. CSharpAdvanced Exams\\01. AdvancedExam - 20.02.2021\\2. Problem\\2. Problem.csproj": {}
+  },
+  "projects": {
+    "F:\\SoftUni\\00. Exams\\02. CSharpAdvanced Exams\\01. AdvancedExam - 20.02.2021\\2. Problem\\2. Problem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\SoftUni\\00. Exams\\02. CSharpAdvanced Exams\\01. AdvancedExam - 20.02.2021\\2. Problem\\2. Problem.csproj",
+        "projectName": "2. Problem",
+        "projectPath": "F:\\SoftUni\\00. Exams\\02. CSharpAdvanced Exams\\01. AdvancedExam - 20.02.2021\\2. Problem\\2. Problem.csproj",
+        "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
+        "outputPath": "F:\\SoftUni\\00. Exams\\02. CSharpAdvanced Exams\\01. AdvancedExam - 20.02.2021\\2. Problem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

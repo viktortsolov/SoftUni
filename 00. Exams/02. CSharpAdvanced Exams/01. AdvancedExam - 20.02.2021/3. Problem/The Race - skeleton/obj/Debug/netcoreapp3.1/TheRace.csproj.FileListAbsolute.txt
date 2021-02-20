@@ -1,0 +1,13 @@
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.exe
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.deps.json
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.dll
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.pdb
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.dll
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.pdb
+F:\SoftUni\00. Exams\02. CSharpAdvanced Exams\01. AdvancedExam - 20.02.2021\3. Problem\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
