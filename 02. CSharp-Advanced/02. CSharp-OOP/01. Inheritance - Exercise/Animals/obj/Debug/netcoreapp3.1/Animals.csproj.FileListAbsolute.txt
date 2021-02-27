@@ -1,0 +1,12 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\01. Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

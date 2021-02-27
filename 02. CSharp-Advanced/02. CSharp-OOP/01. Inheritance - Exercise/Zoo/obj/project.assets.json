@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
+      "projectUniqueName": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
       "projectName": "Zoo",
-      "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
+      "projectPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\01. Inheritance - Exercise\\Zoo\\Zoo.csproj",
       "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\01. Inheritance - Exercise\\Zoo\\obj\\",
+      "outputPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\01. Inheritance - Exercise\\Zoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
