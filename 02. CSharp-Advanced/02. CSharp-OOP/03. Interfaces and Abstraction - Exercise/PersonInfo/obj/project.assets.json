@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\03. Interfaces and Abstraction - Exercise\\PersonInfo\\PersonInfo.csproj",
+      "projectUniqueName": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\03. Interfaces and Abstraction - Exercise\\PersonInfo\\PersonInfo.csproj",
       "projectName": "PersonInfo",
-      "projectPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\03. Interfaces and Abstraction - Exercise\\PersonInfo\\PersonInfo.csproj",
+      "projectPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\03. Interfaces and Abstraction - Exercise\\PersonInfo\\PersonInfo.csproj",
       "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\03. Interfaces and Abstraction - Exercise\\PersonInfo\\obj\\",
+      "outputPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\03. Interfaces and Abstraction - Exercise\\PersonInfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
