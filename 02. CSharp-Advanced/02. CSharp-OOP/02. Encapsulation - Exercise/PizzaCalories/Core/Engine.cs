@@ -50,8 +50,16 @@ namespace PizzaCalories.Core
                 {
                     string name = tokens[1];
                     int numberOfToppings = 0;
-                    numberOfToppings = int.Parse(tokens[2]);
-                    if (numberOfToppings > 10)
+                    if (tokens.Length == 2)
+                    {
+                        numberOfToppings = 0;
+                    }
+                    else
+                    {
+                        numberOfToppings = int.Parse(tokens[2]);
+                    }
+
+                    if (numberOfToppings > 10 || numberOfToppings < 0)
                     {
                         Console.WriteLine("Number of toppings should be in range [0..10].");
                         return;
