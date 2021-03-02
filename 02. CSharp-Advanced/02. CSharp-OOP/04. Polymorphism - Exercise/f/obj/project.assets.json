@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\04. Polymorphism - Exercise\\Vehicles\\Vehicles.csproj",
-      "projectName": "Vehicles",
-      "projectPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\04. Polymorphism - Exercise\\Vehicles\\Vehicles.csproj",
+      "projectUniqueName": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\04. Polymorphism - Exercise\\f\\f.csproj",
+      "projectName": "f",
+      "projectPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\04. Polymorphism - Exercise\\f\\f.csproj",
       "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\04. Polymorphism - Exercise\\Vehicles\\obj\\",
+      "outputPath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\04. Polymorphism - Exercise\\f\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",

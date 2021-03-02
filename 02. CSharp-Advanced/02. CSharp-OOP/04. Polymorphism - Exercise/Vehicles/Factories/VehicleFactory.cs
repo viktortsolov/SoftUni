@@ -12,21 +12,17 @@ namespace Vehicles.Factories
 
         }
 
-        public Vehicle CreateVehicle(string vehicleType, double fuelQuantity, double fuelConsumption, double tankCapacity)
+        public Vehicle CreateVehicle(string vehicleType, double fuelQuantity, double fuelConsumption)
         {
             Vehicle vehicle;
 
             if (vehicleType == "Car")
             {
-                vehicle = new Car(fuelQuantity, fuelConsumption, tankCapacity);
+                vehicle = new Car(fuelQuantity, fuelConsumption);
             }
             else if (vehicleType == "Truck")
             {
-                vehicle = new Truck(fuelQuantity, fuelConsumption, tankCapacity);
-            }
-            else if (vehicleType == "Bus")
-            {
-                vehicle = new Bus(fuelQuantity, fuelConsumption, tankCapacity);
+                vehicle = new Truck(fuelQuantity, fuelConsumption);
             }
             else
             {

@@ -18,7 +18,6 @@ namespace Vehicles.Core
         {
             Vehicle car = ProcessVehicleInfo();
             Vehicle truck = ProcessVehicleInfo();
-            Vehicle bus = ProcessVehicleInfo();
 
             int n = int.Parse(Console.ReadLine());
 
@@ -39,18 +38,10 @@ namespace Vehicles.Core
                         {
                             this.Drive(car, argument);
                         }
-                        else if (vehicleType == "Bus")
-                        {
-                            this.Drive(bus, argument);
-                        }
                         else if (vehicleType == "Truck")
                         {
                             this.Drive(truck, argument);
                         }
-                    }
-                    else if (cmdType == "DriveEmpty")
-                    {
-                        bus.DriveEmpty(argument);
                     }
                     else if (cmdType == "Refuel")
                     {
@@ -62,10 +53,6 @@ namespace Vehicles.Core
                         {
                             this.Refuel(truck, argument);
                         }
-                        else if (vehicleType == "Bus")
-                        {
-                            this.Refuel(bus, argument);
-                        }
                     }
                 }
                 catch (InvalidOperationException ioe)
@@ -76,7 +63,6 @@ namespace Vehicles.Core
 
             Console.WriteLine(car);
             Console.WriteLine(truck);
-            Console.WriteLine(bus);
         }
 
         private void Drive(Vehicle vehicle, double kilometers)
@@ -97,9 +83,8 @@ namespace Vehicles.Core
             string vehicleType = vehicleArgs[0];
             double fuelQuantity = double.Parse(vehicleArgs[1]);
             double fuelConsumption = double.Parse(vehicleArgs[2]);
-            double tankCapacity = double.Parse(vehicleArgs[3]);
 
-            Vehicle currVehicle = this.vehicleFactory.CreateVehicle(vehicleType, fuelQuantity, fuelConsumption, tankCapacity);
+            Vehicle currVehicle = this.vehicleFactory.CreateVehicle(vehicleType, fuelQuantity, fuelConsumption);
 
             return currVehicle;
         }
