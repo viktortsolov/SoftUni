@@ -43,7 +43,7 @@ namespace Vehicles.Core
                         {
                             this.Drive(truck, argument);
                         }
-                        else if(vehicleType == "Bus")
+                        else if (vehicleType == "Bus")
                         {
                             this.Drive(bus, argument);
                         }
@@ -63,9 +63,12 @@ namespace Vehicles.Core
                             this.Refuel(bus, argument);
                         }
                     }
-                    else if(cmdType=="DriveEmpty")
+                    else if (cmdType == "DriveEmpty")
                     {
-                        this.DriveEmpty(bus, argument);
+                        if (vehicleType == "Bus")
+                        {
+                            this.DriveEmpty(bus, argument);
+                        }
                     }
                 }
                 catch (InvalidOperationException ioe)
