@@ -1,0 +1,13 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\obj\Debug\netcoreapp3.1\Heroes.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

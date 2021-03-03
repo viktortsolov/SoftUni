@@ -1,0 +1,13 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\04. Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
