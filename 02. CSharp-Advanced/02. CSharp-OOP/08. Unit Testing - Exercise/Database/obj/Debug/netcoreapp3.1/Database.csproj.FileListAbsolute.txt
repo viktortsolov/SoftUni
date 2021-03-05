@@ -1,0 +1,9 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
