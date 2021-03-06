@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tCBkNjNi4TsMUSekOZTi8f5K2qcR3WsY1KDRv+frN05z4g2Yu4hhQOad1XWWZa1IGf2X37st2T7vtwQcahelaA==",
+  "dgSpecHash": "7rjKUm5p65xtZk7bbgdQboffRKjiCtBjJcQkHcZT6rL39OAr2oroCFjf4ngNpD/Ex2XYf+CmO2aZpIcIJF1evQ==",
   "success": true,
   "projectFilePath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\08. Unit Testing - Exercise\\CarManager.Tests\\CarManager.Tests.csproj",
   "expectedPackageFiles": [

@@ -1,0 +1,9 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

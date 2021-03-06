@@ -1,0 +1,8 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
