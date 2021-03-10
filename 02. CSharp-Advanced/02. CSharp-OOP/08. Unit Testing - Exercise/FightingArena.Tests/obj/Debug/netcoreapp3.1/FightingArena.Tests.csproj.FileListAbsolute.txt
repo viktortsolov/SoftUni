@@ -93,3 +93,5 @@ F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\Fighti
 F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.dll
 F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.pdb
 F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.genruntimeconfig.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\FightingArena.Tests\bin\Debug\netcoreapp3.1\FightingArena.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\08. Unit Testing - Exercise\FightingArena.Tests\bin\Debug\netcoreapp3.1\FightingArena.pdb

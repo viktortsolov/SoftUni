@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DadOhFPoyUn7jVL+/qT2unmZdEPiKXDdQBb+pmTtvn263D5HVSh6SAG7epSiVhgUiZWOekVhfPrsgXiebOyPoA==",
+  "dgSpecHash": "7atu1nQ/3ZdY3t5hMaf+t6Aom2GVe+Yynf3j5BBHJKwlWXctbS1T3cxQ1uDIJOdU/NdAhz7ehEiUy/eWVXDWLw==",
   "success": true,
   "projectFilePath": "F:\\SoftUni\\02. CSharp-Advanced\\02. CSharp-OOP\\08. Unit Testing - Exercise\\FightingArena.Tests\\FightingArena.Tests.csproj",
   "expectedPackageFiles": [
