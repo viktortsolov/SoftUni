@@ -1,0 +1,13 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\09. Mocking & Test Driven - Lab\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache
