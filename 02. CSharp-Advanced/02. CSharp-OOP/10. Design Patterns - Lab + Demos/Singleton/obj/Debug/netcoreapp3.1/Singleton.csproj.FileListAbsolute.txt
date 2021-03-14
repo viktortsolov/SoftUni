@@ -1,0 +1,13 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

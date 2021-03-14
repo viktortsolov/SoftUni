@@ -1,0 +1,13 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\bin\Debug\netcoreapp3.1\SimpleFactory.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\10. Design Patterns - Lab + Demos\SimpleFactory\obj\Debug\netcoreapp3.1\SimpleFactory.genruntimeconfig.cache
