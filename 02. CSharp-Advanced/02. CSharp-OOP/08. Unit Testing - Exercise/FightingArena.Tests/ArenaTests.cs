@@ -1,63 +1,78 @@
-﻿using FightingArena;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using System;
-using System.Linq;
-
+using System.Collections.Generic;
 namespace Tests
 {
+    [TestFixture]
     public class ArenaTests
     {
+        private Warrior warrior;
+        private Arena arena;
+
         [SetUp]
         public void Setup()
         {
+            this.arena = new Arena();
         }
 
         [Test]
-        public void ConstructorShouldInitializeDependentValue()
+        public void EnrollShouldEnrrolWarriorCorrectly()
         {
-            Arena arena = new Arena();
+            Warrior firstWarrior = new Warrior("Django", 10, 150);
+            Warrior secondWarrior = new Warrior("Djeni", 10, 150);
 
-            Assert.IsNotNull(arena.Warriors);
+            List<Warrior> expectedWarriors = new List<Warrior> { firstWarrior, secondWarrior };
+
+            arena.Enroll(firstWarrior);
+            arena.Enroll(secondWarrior);
+
+            Assert.AreEqual(expectedWarriors, arena.Warriors);
         }
 
-        [Test]
-        public void EnrollShouldThrowExceptionIfWarriorExists()
+        [TestCase("Django", 50, 100)]
+        public void TryToEnrrolExistingWarriorThrowExeption(string name, int damage, int Hp)
         {
-            Arena arena = new Arena();
-            Warrior warrior = new Warrior("Stoyan", 10, 10);
+            //Arrange & Act
+            Warrior warrior = new Warrior(name, damage, Hp);
+            this.arena.Enroll(warrior);
 
-            arena.Enroll(warrior);
-
-            Assert.Throws<InvalidOperationException>(() => arena.Enroll(warrior));
+            //Assert
+            Assert.Throws<InvalidOperationException>(() => this.arena.Enroll(warrior));
         }
 
-        [Test]
-        public void EnrollShouldAddWarriorToCollection()
+        [TestCase("Django", 50, 100)]
+        public void EnrollShouldAddWarrior(string name, int damage, int Hp)
         {
-            Arena arena = new Arena();
-            Warrior warrior = new Warrior("Stoyan", 10, 10);
+            Warrior warrior = new Warrior(name, damage, Hp);
+            this.arena.Enroll(warrior);
 
-            arena.Enroll(warrior);
-
-            var expectedCount = 1;
-            var isAny = arena.Warriors.Any(x => x.Name == "Stoyan");
-
-            Assert.AreEqual(expectedCount, arena.Count);
-            Assert.IsTrue(isAny);
+            int expectedCount = 1;
+            Assert.AreEqual(expectedCount, this.arena.Count);
         }
 
-        [Test]
-        [TestCase("Gosho", "Stoyan")]
-        public void FightShouldThrowExceptionIfWarriorDoesntExist(string fighter, string deffender)
+        [TestCase("Django", "Deina")]
+        public void FightOperationShouldThrowExeptionIfTheWarriorsAreNotExist(string attackerName, string defenderName)
         {
-            Arena arena = new Arena();
+            Warrior warrior = new Warrior("attackerName", 10, 150);
 
-            Assert.Throws<InvalidOperationException>(() => arena.Fight(fighter, deffender));
+            Assert.Throws<InvalidOperationException>(() => this.arena.Fight(attackerName, defenderName));
+        }
 
-            Warrior warrior = new Warrior(fighter, 10, 10);
-            arena.Enroll(warrior);
+        [TestCase("Django", "Deina")]
+        public void FightOperationShouldMadeAttack(string attackerName, string defenderName)
+        {
+            Warrior firtWarrior = new Warrior(attackerName, 10, 150);
+            Warrior secondWarror = new Warrior(defenderName, 5, 250);
 
-            Assert.Throws<InvalidOperationException>(() => arena.Fight(fighter, deffender));
+            this.arena.Enroll(firtWarrior);
+            this.arena.Enroll(secondWarror);
+
+            int expected = firtWarrior.HP - secondWarror.Damage;
+            this.arena.Fight(attackerName, defenderName);
+
+            Assert.AreEqual(expected, firtWarrior.HP);
+
+
         }
     }
 }

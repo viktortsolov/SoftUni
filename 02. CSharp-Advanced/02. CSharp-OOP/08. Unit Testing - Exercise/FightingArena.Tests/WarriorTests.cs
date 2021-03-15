@@ -1,80 +1,85 @@
 using NUnit.Framework;
-using FightingArena;
 using System;
 
 namespace Tests
 {
     public class WarriorTests
     {
+        private const int MIN_ATTACK_HP = 30;
+        private Warrior warrior;
+        private const string Name = "Varian";
+        private const int Damage = 105;
+        private const int Hp = 150;
+
         [SetUp]
         public void Setup()
         {
+            this.warrior = new Warrior(Name, Damage, Hp);
         }
 
         [Test]
-        [TestCase("Ivan", 10, 10)]
-        [TestCase("Stoyan", 20, 30)]
-        [TestCase("George", 213, 0)]
-        public void WarriorConstructorShouldSetDataProperly(string name, int damage, int hp)
+        public void ConstructorShouldCreateInstanceOfWarrior()
         {
-            Warrior warrior = new Warrior(name, damage, hp);
-
-            Assert.AreEqual(name, warrior.Name);
-            Assert.AreEqual(damage, warrior.Damage);
-            Assert.AreEqual(hp, warrior.HP);
+            Assert.IsNotNull(this.warrior);
         }
 
-        [Test]
-        [TestCase("", 20, 20)]
-        [TestCase("", 20, 20)]
-        [TestCase(null, 20, 20)]
-        public void WarriorConstructorShoudlThrowExceptionIfInvalidNameIsPassed(string name, int damage, int hp)
+        [TestCase(null, Damage, Hp)]
+        [TestCase("    ", Damage, Hp)]
+        [TestCase(Name, 0, Hp)]
+        [TestCase(Name, -1, Hp)]
+        [TestCase(Name, Damage, -1)]
+        public void ConstructorShouldThrowExeption(string name, int damage, int hp)
         {
             Assert.Throws<ArgumentException>(() => new Warrior(name, damage, hp));
         }
 
         [Test]
-        [TestCase("Ivan", 0, 20)]
-        [TestCase("Stoyan", -11, 20)]
-        public void WarriorConstructorShoudlThrowExceptionIfInvalidDamageIsPassed(string name, int damage, int hp)
+        public void AttackOperationShouldDecrementWarriorHP()
         {
-            Assert.Throws<ArgumentException>(() => new Warrior(name, damage, hp));
+            Warrior otherWarrior = new Warrior("Geno", 10, 150);
+            int expectedHP = 140;
+
+            this.warrior.Attack(otherWarrior);
+
+            Assert.AreEqual(expectedHP, this.warrior.HP);
         }
 
-        [Test]
-        [TestCase("Ivan", 32, -123)]
-        [TestCase("Stoyan", 32, -1)]
-        public void WarriorConstructorShoudlThrowExceptionIfInvalidHPIsPassed(string name, int damage, int hp)
+        [TestCase(1)]
+        [TestCase(20)]
+        [TestCase(29)]
+        public void AttackOperationShpouldThrowInvalidOperationExeptionIfTryToAttackWithLowHP(int hp)
         {
-            Assert.Throws<ArgumentException>(() => new Warrior(name, damage, hp));
+            Warrior otherWarrior = new Warrior("Geno", 10, hp);
+            Assert.Throws<InvalidOperationException>(() => this.warrior.Attack(otherWarrior));
         }
 
-        [Test]
-        [TestCase("Ivan", 10, 10, "Stoyan", 10, 10)]
-        [TestCase("Ivan", 10, 100, "Stoyan", 10, 10)]
-        [TestCase("Ivan", 10, 50, "Stoyan", 100, 50)]
-        public void WarriorAttackOperationMethodShouldThrowInvalidOperationExceptionIfHPIsInvalid(string fighterName, int fighterDamage, int fighterHP,
-            string deffenderName, int deffenderDamage, int deffenderHP)
+        [TestCase(1)]
+        [TestCase(20)]
+        [TestCase(29)]
+        public void AttackOperationShpouldThrowInvalidOperationExeptionIfTryToAttackWithLowHPOtherWarrior(int hp)
         {
-            var fighter = new Warrior(fighterName, fighterDamage, fighterHP);
-            var deffender = new Warrior(deffenderName, deffenderDamage, deffenderHP);
+            this.warrior = new Warrior(Name, Damage, hp);
+            Warrior otherWarrior = new Warrior("Geno", 10, 120);
 
-            Assert.Throws<InvalidOperationException>(() => fighter.Attack(deffender));
+            Assert.Throws<InvalidOperationException>(() => this.warrior.Attack(otherWarrior));
+        }
+        [TestCase(40, 60)]
+        public void AttackOperationShpouldThrowInvalidOperationExeptionIfTryToAttackWithBiggerDamage(int hp, int damage)
+        {
+            this.warrior = new Warrior(Name, Damage, hp);
+            Warrior otherWarrior = new Warrior("Geno", damage, hp);
+
+            Assert.Throws<InvalidOperationException>(() => this.warrior.Attack(otherWarrior));
         }
 
-        [Test]
-        [TestCase("Ivan", 10, 50, 40, "Stoyan", 10, 50, 40)]
-        [TestCase("Ivan", 20, 100, 90, "Stoyan", 10, 70, 50)]
-        public void WarriorAttackOperationMethodShouldDecreaseHP(string fighterName, int fighterDamage, int fighterHP, int fighterHPLeft,
-            string deffenderName, int deffenderDamage, int deffenderHP, int deffenderHPLeft)
+        [TestCase("Geno", 50, 40)]
+        public void TestWarriorAttackIfDefendHpIsLessThanDamage(string name, int damage, int hp)
         {
-            var fighter = new Warrior(fighterName, fighterDamage, fighterHP);
-            var deffender = new Warrior(deffenderName, deffenderDamage, deffenderHP);
+            Warrior otherWarrior = new Warrior(name, damage, hp);
 
-            fighter.Attack(deffender);
-
-            Assert.AreEqual(fighterHPLeft, fighter.HP);
-            Assert.AreEqual(deffenderHPLeft, deffender.HP);
+            int expectedHP = 0;
+            this.warrior.Attack(otherWarrior);
+            Assert.AreEqual(expectedHP, otherWarrior.HP);
         }
     }
 }
