@@ -6,11 +6,15 @@ namespace DIContainer.Modules
     public abstract class AbstractModule : IModule
     {
         private Dictionary<Type, Type> mappings;
-        private Dictionary<Type, object> instances;
 
-        protected abstract void Configure();
+        public AbstractModule()
+        {
+            mappings = new Dictionary<Type, Type>();
+            Configure();
+        }
 
-        //CreateMapping<Ireader, COonsoleReader>();
+        public abstract void Configure();
+
         public void CreateMapping<TInterface, TImplementation>()
         {
             if (!mappings.ContainsKey(typeof(TInterface)))
@@ -19,17 +23,9 @@ namespace DIContainer.Modules
             }
         }
 
-        public TImplementation GetInstance<TImplementation>()
+        public Type GetMapping<TInterface>()
         {
-            return (TImplementation)instances[typeof(TImplementation)];
-        }
-
-        public void SetInstance<TImplementation>(object instance)
-        {
-            if (!instances.ContainsKey(typeof(TImplementation)))
-            {
-                instances[typeof(TImplementation)] = instance;
-            }
+            return mappings[typeof(TInterface)];
         }
     }
 }

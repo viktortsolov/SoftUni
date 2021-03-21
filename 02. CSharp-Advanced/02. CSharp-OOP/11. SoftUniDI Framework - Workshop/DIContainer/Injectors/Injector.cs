@@ -1,13 +1,19 @@
 ﻿using DIContainer.Atributes;
+using DIContainer.Modules;
 
 namespace DIContainer.Injectors
 {
-    class Injector
+    public class Injector
     {
-        [Inject]
-        public Injector()
+        private IModule module;
+        public Injector(IModule module)
         {
+            this.module = module;
+        }
 
+        public TClass Inject<TClass>()
+        {
+            return default(TClass);
         }
     }
 }

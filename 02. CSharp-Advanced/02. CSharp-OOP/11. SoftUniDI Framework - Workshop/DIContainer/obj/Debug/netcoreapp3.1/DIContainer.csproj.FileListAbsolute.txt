@@ -1,0 +1,9 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\bin\Debug\netcoreapp3.1\DIContainer.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\bin\Debug\netcoreapp3.1\DIContainer.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\bin\Debug\netcoreapp3.1\DIContainer.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\obj\Debug\netcoreapp3.1\DIContainer.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\obj\Debug\netcoreapp3.1\DIContainer.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\obj\Debug\netcoreapp3.1\DIContainer.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\obj\Debug\netcoreapp3.1\DIContainer.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\obj\Debug\netcoreapp3.1\DIContainer.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\11. SoftUniDI Framework - Workshop\DIContainer\obj\Debug\netcoreapp3.1\DIContainer.pdb
