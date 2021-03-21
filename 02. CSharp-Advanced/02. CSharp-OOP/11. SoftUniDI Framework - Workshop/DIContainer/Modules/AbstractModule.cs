@@ -1,15 +1,18 @@
-﻿using System;
+﻿using DIContainer.Atributes;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DIContainer.Modules
 {
     public abstract class AbstractModule : IModule
     {
-        private Dictionary<Type, Type> mappings;
+        private Dictionary<Type, List<Type>> mappings;
+        private Type interfaceType;
 
         public AbstractModule()
         {
-            mappings = new Dictionary<Type, Type>();
+            mappings = new Dictionary<Type, List<Type>>();
             Configure();
         }
 
@@ -19,13 +22,27 @@ namespace DIContainer.Modules
         {
             if (!mappings.ContainsKey(typeof(TInterface)))
             {
-                mappings.Add(typeof(TInterface), typeof(TImplementation));
+                mappings.Add(typeof(TInterface), new List<Type>());
             }
+            mappings[typeof(TInterface)].Add(typeof(TImplementation));
         }
 
-        public Type GetMapping<TInterface>()
+        //TODO: Not so sure about namedType = null
+        public Type GetMapping(Type interfaceType, Named namedAttribute = null)
         {
-            return mappings[typeof(TInterface)];
+            if (!mappings.ContainsKey(interfaceType))
+            {
+                return null;
+            }
+
+            if (namedAttribute == null)
+            {
+                return mappings[interfaceType][0];
+            }
+            else
+            {
+                return mappings[interfaceType].FirstOrDefault(x => x.Name == namedAttribute.Type.Name);
+            }
         }
     }
 }

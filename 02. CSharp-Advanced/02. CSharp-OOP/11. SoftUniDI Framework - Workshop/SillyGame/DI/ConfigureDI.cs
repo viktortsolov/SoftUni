@@ -10,6 +10,7 @@ namespace SillyGame.DI
         {
             CreateMapping<IReader, ConsoleReader>();
             CreateMapping<IWriter, ConsoleWriter>();
+            CreateMapping<IWriter, WeirdConsoleWriter>();
         }
     }
 }

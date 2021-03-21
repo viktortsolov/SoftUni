@@ -1,4 +1,5 @@
 ﻿using DIContainer.Atributes;
+using SillyGame.IO;
 using SillyGame.IO.Contracts;
 
 namespace SillyGame
