@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WarCroft.Entities.Items
+namespace WarCroft.Entities.Inventory
 {
-    interface HealthPotion
+    class Bag
     {
     }
 }
