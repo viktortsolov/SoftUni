@@ -2,8 +2,7 @@
 {
     public class Wall : Point
     {
-        //\u25A0 = ■
-
+        private const char wallSymbol = '\u25A0';
         public Wall(int leftX, int topY)
             : base(leftX, topY)
         {
@@ -17,7 +16,7 @@
         {
             for (int leftX = 0; leftX < this.LeftX; leftX++)
             {
-                this.Draw(leftX, top, '■');
+                this.Draw(leftX, top, wallSymbol);
             }
         }
 
@@ -25,7 +24,7 @@
         {
             for (int topY = 0; topY < this.TopY; topY++)
             {
-                this.Draw(left, topY, '■');
+                this.Draw(left, topY, wallSymbol);
             }
         }
     }

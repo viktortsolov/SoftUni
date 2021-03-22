@@ -30,8 +30,8 @@
 
             while (isPartOfSnake)
             {
-                this.LeftX = this.random.Next(2, this.wall.LeftX - 2);
-                this.TopY = this.random.Next(2, this.wall.TopY - 2);
+                this.LeftX = this.random.Next(1, this.wall.LeftX - 1);
+                this.TopY = this.random.Next(1, this.wall.TopY - 1);
 
                 isPartOfSnake = snake.Any(x => x.LeftX == this.LeftX && x.TopY == this.TopY);
             }
