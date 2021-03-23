@@ -52,7 +52,7 @@ namespace TheRace.Tests
         }
 
         [Test]
-        public void CalculateHprsePowerShouldThrowExceptionWhenDriversAreNotEnough()
+        public void CalculateHorsePowerShouldThrowExceptionWhenDriversAreNotEnough()
         {
             Assert.Throws<InvalidOperationException>(() =>
             {
@@ -64,6 +64,30 @@ namespace TheRace.Tests
 
                 raceEntry.CalculateAverageHorsePower();
             });
+        }
+
+        [Test]
+        public void CalculateHorsePowerShouldWork()
+        {
+            var raceEntry = new RaceEntry();
+
+            var unitCarOne = new UnitCar("Golf 4", 100, 6300);
+            var unitDriverOne = new UnitDriver("Gosho", unitCarOne);
+
+            var unitCarTwo = new UnitCar("Golf 3", 100, 2000);
+            var unitDriverTwo = new UnitDriver("Svetlincho", unitCarTwo);
+
+            var unitCarThree = new UnitCar("Golf 2", 100, 1000);
+            var unitDriverThree = new UnitDriver("Pesho", unitCarThree);
+
+            raceEntry.AddDriver(unitDriverOne);
+            raceEntry.AddDriver(unitDriverTwo);
+            raceEntry.AddDriver(unitDriverThree);
+
+            var expectedResult = 100;
+            var actualResult = raceEntry.CalculateAverageHorsePower();
+
+            Assert.AreEqual(expectedResult, actualResult);
         }
     }
 }
