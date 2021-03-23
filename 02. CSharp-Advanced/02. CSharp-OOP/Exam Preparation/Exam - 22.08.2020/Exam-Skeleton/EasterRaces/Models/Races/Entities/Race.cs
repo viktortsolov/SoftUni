@@ -16,7 +16,6 @@ namespace EasterRaces.Models.Races.Entities
 
         public Race(string name, int laps)
         {
-            //
             this.Name = name;
             this.Laps = laps;
 
@@ -71,7 +70,7 @@ namespace EasterRaces.Models.Races.Entities
             }
             if (this.drivers.Any(x => x.Name == driver.Name))
             {
-                throw new ArgumentNullException(string.Format(ExceptionMessages.DriverAlreadyAdded, driver.Name, this.Name));
+                throw new ArgumentNullException(nameof(IDriver), string.Format(ExceptionMessages.DriverAlreadyAdded, driver.Name, this.Name));
             }
             this.drivers.Add(driver);
         }

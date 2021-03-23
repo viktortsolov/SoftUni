@@ -18,7 +18,6 @@ namespace EasterRaces.Models.Cars.Entities
             this.maxHorsePower = maxHorsePower;
 
             this.Model = model;
-            //
             this.HorsePower = horsePower;
             this.CubicCentimeters = cubicCentimeters;
         }

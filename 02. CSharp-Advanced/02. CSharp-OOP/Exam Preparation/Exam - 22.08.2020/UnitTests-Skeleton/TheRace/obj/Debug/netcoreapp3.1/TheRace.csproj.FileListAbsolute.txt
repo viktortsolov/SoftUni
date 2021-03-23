@@ -1,0 +1,9 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 22.08.2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

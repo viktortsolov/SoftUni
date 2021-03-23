@@ -10,7 +10,6 @@ namespace EasterRaces.Models.Drivers.Entities
         private string name;
         public Driver(string name)
         {
-            //
             this.Name = name;
         }
 
