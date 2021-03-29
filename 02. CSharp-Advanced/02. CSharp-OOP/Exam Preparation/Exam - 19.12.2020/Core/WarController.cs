@@ -168,8 +168,6 @@ namespace WarCroft.Core
             return result;
         }
 
-
-        //HERE IS THE ERROR
         public string Heal(string[] args)
         {
             string healerName = args[0];
