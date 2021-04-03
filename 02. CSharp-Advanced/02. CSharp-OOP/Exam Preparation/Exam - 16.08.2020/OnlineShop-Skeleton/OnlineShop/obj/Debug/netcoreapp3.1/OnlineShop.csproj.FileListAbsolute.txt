@@ -1,0 +1,13 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
