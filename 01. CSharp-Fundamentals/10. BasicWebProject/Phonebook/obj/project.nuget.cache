@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtWId4ffSx1DkeJFRFI3DhDrGguPjKAsPKge+zbo5gpf82SmV5imHhxT7JiH9SQhny88SpehK0Icsnc9jESIUA==",
+  "dgSpecHash": "7Zy6Tpau73gY0t/o58wrvVOT2W5Qihqf9vvZT8p9rhuLfThAEdQOlE9JFigIn/UZp4+P4lB1j9vqmEhwweXBtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Виктор\\Desktop\\Projects - C#\\SoftUni\\01. CSharp-Fundamentals\\10. BasicWebProject\\Phonebook\\Phonebook.csproj",
+  "projectFilePath": "F:\\SoftUni\\01. CSharp-Fundamentals\\10. BasicWebProject\\Phonebook\\Phonebook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Виктор\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\Виктор\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",

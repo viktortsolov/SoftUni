@@ -26,3 +26,9 @@ C:\Users\Виктор\Desktop\Projects - C#\SoftUni\01. CSharp-Fundamentals\10. 
 C:\Users\Виктор\Desktop\Projects - C#\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
 C:\Users\Виктор\Desktop\Projects - C#\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
 C:\Users\Виктор\Desktop\Projects - C#\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+F:\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+F:\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+F:\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+F:\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+F:\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+F:\SoftUni\01. CSharp-Fundamentals\10. BasicWebProject\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
