@@ -23,7 +23,7 @@ namespace Computers.Tests
                 computerManager.AddComputer(computer);
             });
         }
-            
+
         [Test]
         public void AddComputerMethodShouldThrowExceptionWhenComputerIsNull()
         {
@@ -102,5 +102,7 @@ namespace Computers.Tests
 
             Assert.AreEqual(expectedResult, actualResult);
         }
+        
+        
     }
 }
