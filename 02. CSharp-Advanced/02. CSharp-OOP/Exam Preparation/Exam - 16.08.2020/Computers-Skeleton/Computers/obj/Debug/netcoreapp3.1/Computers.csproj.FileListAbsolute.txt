@@ -1,0 +1,13 @@
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+F:\SoftUni\02. CSharp-Advanced\02. CSharp-OOP\Exam Preparation\Exam - 16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache
