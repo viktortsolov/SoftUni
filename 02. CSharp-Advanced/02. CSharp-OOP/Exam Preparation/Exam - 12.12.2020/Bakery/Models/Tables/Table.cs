@@ -68,7 +68,8 @@ namespace Bakery.Models.Tables
             this.foods = new List<IBakedFood>();
 
             IsReserved = false;
-            NumberOfPeople = 0;
+            NumberOfPeople = 1;
+            NumberOfPeople -= 1;
         }
 
         public decimal GetBill()

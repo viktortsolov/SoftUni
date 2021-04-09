@@ -40,7 +40,7 @@ namespace Bakery.Core
             {
                 return null;
             }
-
+            
             drinks.Add(drink);
             return string.Format(OutputMessages.DrinkAdded, name, brand);
         }
@@ -109,8 +109,14 @@ namespace Bakery.Core
         {
             var table = this.tables.FirstOrDefault(x => x.TableNumber == tableNumber);
 
+            var type = table.GetType().Name;
+            var capacity = table.Capacity;
+
             var bill = table.GetBill();
-            table.Clear();
+
+            tables.Remove(table);
+
+            this.AddTable(type, tableNumber, capacity);
             //TODO: Do I need to remove it?
 
             StringBuilder sb = new StringBuilder();
@@ -125,17 +131,50 @@ namespace Bakery.Core
         public string OrderDrink(int tableNumber, string drinkName, string drinkBrand)
         {
             var table = this.tables.FirstOrDefault(x => x.TableNumber == tableNumber);
- 
+            if (table == null)
+            {
+                return string.Format(OutputMessages.WrongTableNumber, tableNumber);
+            }
+
+            var drink = drinks.FirstOrDefault(x => x.Name == drinkName && x.Brand == drinkBrand);
+            if (drink == null)
+            {
+                return string.Format(OutputMessages.NonExistentDrink, drinkName, drinkBrand);
+            }
+
+            table.OrderDrink(drink);
+            return $"Table {tableNumber} ordered {drinkName} {drinkBrand}";
+
         }
 
         public string OrderFood(int tableNumber, string foodName)
         {
-            throw new System.NotImplementedException();
+            var table = this.tables.FirstOrDefault(x => x.TableNumber == tableNumber);
+            if (table == null)
+            {
+                return string.Format(OutputMessages.WrongTableNumber, tableNumber);
+            }
+
+            var food = bakedFoods.FirstOrDefault(x => x.Name == foodName);
+            if (food == null)
+            {
+                return string.Format(OutputMessages.NonExistentFood, foodName);
+            }
+
+            table.OrderFood(food);
+            return string.Format(OutputMessages.FoodOrderSuccessful, tableNumber, foodName);
         }
 
         public string ReserveTable(int numberOfPeople)
         {
-            throw new System.NotImplementedException();
+            var table = tables.FirstOrDefault(x => x.IsReserved == false && x.Capacity >= numberOfPeople && numberOfPeople == 0);
+
+            if (table == null)
+            {
+                return $"No available table for {numberOfPeople} people";
+            }
+
+            return string.Format(OutputMessages.TableReserved, table.TableNumber, numberOfPeople);
         }
     }
 }
