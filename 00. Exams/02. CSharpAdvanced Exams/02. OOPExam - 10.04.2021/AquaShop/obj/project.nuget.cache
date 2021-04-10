@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9sxFgiYLGev/MU/ryudNoWAT1WEoC/o99JNs2yNHw1Jzng5ixG18ugvW4dauNutzRk4Ojef6Y4/7ZJVc/OwP1Q==",
+  "success": true,
+  "projectFilePath": "F:\\SoftUni\\00. Exams\\02. CSharpAdvanced Exams\\02. OOPExam - 10.04.2021\\AquaShop\\AquaShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
