@@ -1,18 +1,11 @@
-function solution(a){
-    if(typeof(a) !== 'Null'){
+function solve(param = 5) {
+    let result = new Array(param);
 
-        for (let i = 0; i < a; i++) {
-            console.log('*'.repeat(a));
-        }
+    for (let i = 0; i < param; i++) {
+        result[i] = "* ".repeat(param).trim();
     }
-    else
-    {
-        console.log('A')
-        for (let i = 0; i < 5; i++) {
-            console.log('*'.repeat(5));
-        }
-    }
+    return result.join("\n");
 }
 
-
-solution();
+console.log(solve());
+console.log(solve(4));
