@@ -1,9 +1,5 @@
 function solution(array){
-    function compareNumbers(a,b){
-        return a - b; // b - a (reversed)
-    }
-
-    array.sort(compareNumbers);
+    array.sort((a, b) => a - b);
 
     console.log(array[0], array[1]);
 }
