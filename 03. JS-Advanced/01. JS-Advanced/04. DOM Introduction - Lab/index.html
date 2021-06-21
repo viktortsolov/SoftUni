@@ -18,9 +18,9 @@
         <section id="superhero-section">
             <h3 id="superhero-list-heading">Superheros</h3>
             <ul id="superhero-list">
-                <li>Superman</li>
-                <li>Captain America</li>
-                <li>Darkseid</li>
+                <li class="good">Superman</li>
+                <li class="good">Captain America</li>
+                <li class="evil">Darkseid</li>
             </ul>
 
             <label for="superhero-name">Add Superhero</label>
@@ -41,17 +41,21 @@
 
         // Change background
         let siteWrapper = document.getElementById('wrapper');
-        siteWrapper.style.backgroundColor = 'lightblue';
+        siteWrapper.style.backgroundColor = 'pink';
 
         // Get value from input
         function addSuperhero() {
             let superheroNameInputElement = document.getElementById('superhero-name')
             let superheroName = superheroNameInputElement.value;
             console.log(superheroName);
-            
+
             // Delete value when add button is clicked
             superheroNameInputElement.value = '';
         }
+
+        //Targeting elements by class
+        let goodSuperheroesLiElements = document.getElementsByClassName('good');
+        console.log(goodSuperheroesLiElements);
     </script>
 </body>
 
