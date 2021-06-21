@@ -9,29 +9,49 @@
 </head>
 
 <body>
-    <h1>JS DOM</h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil hic vero accusamus voluptatibus quae.
-        Voluptatibus quos, recusandae sed vel officia atque sint maiores nostrum dolorem fuga, placeat earum quod velit.
-    </p>
-    <section>
-        <h3 id="superhero-list-heading">Superheros</h3>
-        <ul id="superhero-list">
-            <li>Superman</li>
-            <li>Captain America</li>
-            <li>Darkseid</li>
-        </ul>
+    <div id="wrapper">
+        <h1>JS DOM</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil hic vero accusamus voluptatibus quae.
+            Voluptatibus quos, recusandae sed vel officia atque sint maiores nostrum dolorem fuga, placeat earum quod
+            velit.
+        </p>
+        <section id="superhero-section">
+            <h3 id="superhero-list-heading">Superheros</h3>
+            <ul id="superhero-list">
+                <li>Superman</li>
+                <li>Captain America</li>
+                <li>Darkseid</li>
+            </ul>
 
-        <button id = "add-superhero" onclick="console.log('add Loki')">Add</button>
-    </section>
+            <label for="superhero-name">Add Superhero</label>
+            <input type="text" id="superhero-name">
+            <button id="add-superhero" onclick="addSuperhero();">Add</button>
+        </section>
+    </div>
 
     <script>
-        //Change heading
+        // Change heading
         let headingElement = document.getElementById('superhero-list-heading');
         headingElement.textContent += ' from MCU and DCU';
 
         // Show inner HTML
-        let addSuperheroButtonElement = document.getElementById('add-superhero');
-        console.log(addSuperheroButtonElement.innerHTML);
+        let superheroSectionElement = document.getElementById('superhero-section');
+        console.log(superheroSectionElement.innerHTML);
+        console.log(superheroSectionElement.textContent);
+
+        // Change background
+        let siteWrapper = document.getElementById('wrapper');
+        siteWrapper.style.backgroundColor = 'lightblue';
+
+        // Get value from input
+        function addSuperhero() {
+            let superheroNameInputElement = document.getElementById('superhero-name')
+            let superheroName = superheroNameInputElement.value;
+            console.log(superheroName);
+            
+            // Delete value when add button is clicked
+            superheroNameInputElement.value = '';
+        }
     </script>
 </body>
 
