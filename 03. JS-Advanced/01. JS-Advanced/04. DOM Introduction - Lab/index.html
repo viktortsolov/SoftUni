@@ -53,9 +53,26 @@
             superheroNameInputElement.value = '';
         }
 
-        //Targeting elements by class
+        //Targeting elements by class, returns HTMLCOllection
         let goodSuperheroesLiElements = document.getElementsByClassName('good');
-        console.log(goodSuperheroesLiElements);
+        goodSuperheroesLiElements[0].textContent += ' The Strongest Avenger';
+
+        for (const heroElement of goodSuperheroesLiElements) { //Works in Judje!
+            console.log('good superhero: ', heroElement.textContent);
+        }
+
+        //Targeting with CSS selector, returns NodeList
+        let allSuperheroesLiElements = document.querySelectorAll('#superhero-list li');
+        allSuperheroesLiElements.forEach((x) => { //Doesn't work in Judje!
+            console.log(x.textContent);
+        });
+
+        //Convert HTMLCollection and NodeList to JS Array
+        let goodSuperheroes = Array.from(goodSuperheroesLiElements); //Judje safe!
+        let goodSuperheroes2 = [...goodSuperheroesLiElements]; //NOT Judje safe!
+        
+        console.log(Array.isArray(goodSuperheroes));
+
     </script>
 </body>
 
