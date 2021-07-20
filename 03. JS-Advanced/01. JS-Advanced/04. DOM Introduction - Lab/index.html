@@ -23,56 +23,21 @@
                 <li class="evil">Darkseid</li>
             </ul>
 
+            <button id='toggle-heroes-button' onclick="toggleSuperheroes();">Hide</button>
+
+            <br />
+
             <label for="superhero-name">Add Superhero</label>
             <input type="text" id="superhero-name">
             <button id="add-superhero" onclick="addSuperhero();">Add</button>
         </section>
     </div>
 
+    <script src="./script.js"></script>
+
     <script>
-        // Change heading
-        let headingElement = document.getElementById('superhero-list-heading');
-        headingElement.textContent += ' from MCU and DCU';
-
-        // Show inner HTML
-        let superheroSectionElement = document.getElementById('superhero-section');
-        console.log(superheroSectionElement.innerHTML);
-        console.log(superheroSectionElement.textContent);
-
-        // Change background
-        let siteWrapper = document.getElementById('wrapper');
-        siteWrapper.style.backgroundColor = 'pink';
-
-        // Get value from input
-        function addSuperhero() {
-            let superheroNameInputElement = document.getElementById('superhero-name')
-            let superheroName = superheroNameInputElement.value;
-            console.log(superheroName);
-
-            // Delete value when add button is clicked
-            superheroNameInputElement.value = '';
-        }
-
-        //Targeting elements by class, returns HTMLCOllection
-        let goodSuperheroesLiElements = document.getElementsByClassName('good');
-        goodSuperheroesLiElements[0].textContent += ' The Strongest Avenger';
-
-        for (const heroElement of goodSuperheroesLiElements) { //Works in Judje!
-            console.log('good superhero: ', heroElement.textContent);
-        }
-
-        //Targeting with CSS selector, returns NodeList
-        let allSuperheroesLiElements = document.querySelectorAll('#superhero-list li');
-        allSuperheroesLiElements.forEach((x) => { //Doesn't work in Judje!
-            console.log(x.textContent);
-        });
-
-        //Convert HTMLCollection and NodeList to JS Array
-        let goodSuperheroes = Array.from(goodSuperheroesLiElements); //Judje safe!
-        let goodSuperheroes2 = [...goodSuperheroesLiElements]; //NOT Judje safe!
-        
-        console.log(Array.isArray(goodSuperheroes));
-
+        //This will be executed in the same scope after script.js
+        console.log(headingElement.textContent);
     </script>
 </body>
 
