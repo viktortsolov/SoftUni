@@ -30,3 +30,21 @@ function deleteHero() {
     //heroListElement.removeChild(lastHeroElement); //Delete from parent
     lastHeroElement.remove();
 }
+
+//With HTML Attributes event
+function heroesMouseOverHandler(){
+    console.log('Show hero!');
+}
+
+//With DOM element properties
+let heroNameElement = document.getElementById('hero-name');
+heroNameElement.onfocus = function(){
+    console.log('Start typing a hero...');
+};
+heroNameElement.onblur = () => console.log('Stop typing a hero!');
+
+//With DOM event hanler - preferred method
+function heroNameInputHandler(){
+    console.log(heroNameElement.value);
+}
+heroNameElement.addEventListener('input', heroNameInputHandler);
