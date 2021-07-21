@@ -32,19 +32,19 @@ function deleteHero() {
 }
 
 //With HTML Attributes event
-function heroesMouseOverHandler(){
-    console.log('Show hero!');
+function heroesMouseOverHandler(e){
+    console.log(`Show hero: ${e.target.textContent}`);
 }
 
 //With DOM element properties
 let heroNameElement = document.getElementById('hero-name');
-heroNameElement.onfocus = function(){
+heroNameElement.onfocus = function(e){
     console.log('Start typing a hero...');
 };
-heroNameElement.onblur = () => console.log('Stop typing a hero!');
+heroNameElement.onblur = (e) => console.log('Stop typing a hero!');
 
 //With DOM event hanler - preferred method
-function heroNameInputHandler(){
-    console.log(heroNameElement.value);
+function heroNameInputHandler(event){
+    console.log(event.currentTarget.value);
 }
 heroNameElement.addEventListener('input', heroNameInputHandler);
