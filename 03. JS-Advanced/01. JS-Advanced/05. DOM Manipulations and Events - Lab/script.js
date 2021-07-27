@@ -43,8 +43,17 @@ heroNameElement.onfocus = function(e){
 };
 heroNameElement.onblur = (e) => console.log('Stop typing a hero!');
 
-//With DOM event hanler - preferred method
+//With DOM event hanдler - preferred method
 function heroNameInputHandler(event){
     console.log(event.currentTarget.value);
 }
+
 heroNameElement.addEventListener('input', heroNameInputHandler);
+
+//Click on hero, but NOT the best way!
+let heroListItemElements = document.querySelectorAll('#hero-list li');
+for (const heroElement of heroListItemElements) {
+    heroElement.addEventListener('click', (e) => {
+        console.log(`You clicked on hero: ${e.target.textContent}`);
+    });
+}
