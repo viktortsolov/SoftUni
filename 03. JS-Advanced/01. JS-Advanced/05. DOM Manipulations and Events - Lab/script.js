@@ -51,9 +51,19 @@ function heroNameInputHandler(event){
 heroNameElement.addEventListener('input', heroNameInputHandler);
 
 //Click on hero, but NOT the best way!
-let heroListItemElements = document.querySelectorAll('#hero-list li');
-for (const heroElement of heroListItemElements) {
-    heroElement.addEventListener('click', (e) => {
-        console.log(`You clicked on hero: ${e.target.textContent}`);
-    });
-}
+//let heroListItemElements = document.querySelectorAll('#hero-list li');
+//for (const heroElement of heroListItemElements) {
+//    heroElement.addEventListener('click', (e) => {
+//        console.log(`You clicked on hero: ${e.target.textContent}`);
+//    });
+//}
+
+//Click on hero, but THE BEST way
+let heroListElement = document.getElementById('hero-list');
+heroListElement.addEventListener('click', (e) => {
+    if (e.target.tagName != 'LI') {
+        return;
+    }
+    console.log(`You clicked on hero: ${e.target.textContent}`);
+});
+ 
