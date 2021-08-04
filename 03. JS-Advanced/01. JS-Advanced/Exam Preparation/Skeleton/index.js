@@ -1,82 +1,76 @@
 function solve() {
-    let buttonElement = document.querySelector('.admin-view .action button');
-    let modules = {};
+    const modules = document.querySelector('main>:nth-child(1)>:nth-child(2)');
+    const administarition = document.querySelector('main>:nth-child(2)');
+    const addBtn = administarition.querySelector('button');
+    addBtn.addEventListener('click', onAdd);
 
-    buttonElement.addEventListener('click', (e) => {
+    function onAdd(e) {
         e.preventDefault();
+        let lecture = administarition.querySelector('div>div>form>div:nth-child(1)>input');
+        let date = administarition.querySelector('div>div>form>div:nth-child(2)>input');
+        let module = administarition.querySelector('div>div>form>div:nth-child(3)>select');
 
-        let lectureNameElement = document.querySelector('input[name="lecture-name"]');
-        let lectureDateElement = document.querySelector('input[name="lecture-date"]');
-        let lectureModuleElement = document.querySelector('select[name="lecture-module"]');
-
-        if (!lectureNameElement.value || !lectureDateElement.value || lectureModuleElement.value == 'Select module') {
+        if (module.value == 'Select Module' || lecture.value == '' || date.value == '') {
             return;
         }
 
-        if (!modules[lectureModuleElement.value]) {
-            modules[lectureModuleElement.value] = [];
+        let divModule = createElement('div', undefined, 'module');
+        const h3 = createElement('h3', `${module.value.toUpperCase()}-MODULE`);
+        const ul = createElement('ul', );
+        const li = createElement('li', undefined, 'flex');
+        const h4 = createElement('h4', `${lecture.value} - ${convertDate(date.value)}`);
+        const delBtn = createElement('buttonDel', 'Del', 'red');
+        delBtn.addEventListener('click', onDelete);
+
+        [h4, delBtn].map((el) => li.appendChild(el));
+
+        const allH3 = Array.from(modules.querySelectorAll('h3'));
+        if (allH3.find((x) => x.textContent == h3.textContent)) {
+            let currDiv = allH3.find((x) => x.textContent == h3.textContent).parentNode;
+            let ul = currDiv.querySelector('ul');
+            ul.appendChild(li);
+
+            sort(ul)
+        } else {
+            ul.appendChild(li);
+            [h3, ul].map((el) => divModule.appendChild(el));
+            modules.appendChild(divModule);
         }
 
-        let currentLecture = {
-            name: lectureElement.value,
-            data: formatDate(lectureDateElement.value)
-        };
-        modules[lectureModuleElement.value].push(currentLecture);
-
-        createTrainings(modules);
-    });
-
-    function createTrainings(modules) {
-
-        for (const module in modules) {
-            let moduleElement = createModule(module);
-            let lectureList = document.createElement('ul');
-
-            let lectures = modules[module];
-
-            lectures.sort((a, b) => a.date.localeCompare(b.date));
-
-            lectureList.appendChild(lectureElement);
+        function onDelete(e) {
+            const currli = e.target.parentNode
+            const currul = currli.parentNode
+            const module = currul.parentNode
+            currli.remove();
+            if (!currul.children.length)
+                module.remove();
         }
-        
-        let lectureElement = createLecture(lectureNameElement.value, lectureDateElement.value);
 
-        let modulesElement = document.querySelector('.modules');
-        modulesElement.appendChild(moduleElement);
     }
 
-    function createModule(name, lectureElement) {
-        let divElement = document.createElement('div');
-        divElement.classList.add('module');
-
-        let headingElement = document.createElement('h3');
-        headingElement.textContent = `${name.toUpperCase()}-MODULE`;
-
-        divElement.appendChild(headingElement);
-
-        return divElement;
+    function sort(ul) {
+        Array.from(ul.querySelectorAll('li'))
+            .sort((a, b) => a.textContent.localeCompare(b.textContent))
+            .forEach((li) => ul.appendChild(li))
     }
 
-    function createLecture(name, date) {
-        let liElement = document.createElement('li');
-        liElement.classList.add('flex');
-        let courseHeadingElement = document.createElement('h4');
-        courseHeadingElement.textContent =
-            `${name} - ${formatDate(date)}`;
-        let deleteButtonElement = document.createElement('button');
-        deleteButtonElement.classList.add('red');
-        deleteButtonElement.textContent = 'Del';
-
-        liElement.appendChild(courseHeadingElement);
-        liElement.appendChild(deleteButtonElement);
-
-        return liElement;
+    function convertDate(dateValue) {
+        while (dateValue.includes("-")) {
+            dateValue = dateValue.replace("-", "/");
+        }
+        dateValue = dateValue.replace("T", " - ");
+        return dateValue;
     }
 
-    function formatDate(dateInput) {
-        let [date, time] = dateInput.split('T');
-        date = date.replaceAll(/-/g, '/');
-
-        return `${date} - ${time}`;
+    function createElement(type, content, attribute) {
+        const el = document.createElement(type);
+        if (attribute) {
+            el.setAttribute('class', attribute);
+            el.textContent = content;
+        } else if (content) {
+            el.textContent = content;
+        }
+        return el;
     }
+
 };
