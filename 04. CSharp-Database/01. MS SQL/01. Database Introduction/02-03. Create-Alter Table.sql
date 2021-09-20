@@ -1,0 +1,17 @@
+CREATE TABLE [Minions](
+	[Id] INT NOT NULL,
+	[Name] NVARCHAR(50) NOT NULL,
+	[Age] INT
+)
+
+GO
+
+ALTER TABLE [Minions]
+ADD CONSTRAINT PK_MinionsId PRIMARY KEY (Id)
+
+CREATE TABLE [Towns]
+			 (
+			 [Id] INT PRIMARY KEY NOT NULL,
+			 [Name] NVARCHAR(50)  NOT NULL,
+			 )
+
