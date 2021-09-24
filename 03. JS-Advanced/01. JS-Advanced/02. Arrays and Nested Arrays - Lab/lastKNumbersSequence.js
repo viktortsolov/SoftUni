@@ -1,3 +1,0 @@
-function solution(numberOne, numberTwo){
-    
-}
