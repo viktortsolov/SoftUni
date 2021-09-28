@@ -1,0 +1,11 @@
+CREATE TABLE [Passports](
+	[PassportID] INT PRIMARY KEY NOT NULL,
+	[PassportNumber] CHAR(8) NOT NULL
+)
+
+CREATE TABLE [Persons](
+	[PersonID] INT PRIMARY KEY IDENTITY NOT NULL,
+	[FirstName] VARCHAR(50) NOT NULL,
+	[Salary] DECIMAL(8, 2) NOT NULL,
+	[PassportID] INT UNIQUE FOREIGN KEY REFERENCES [Passports]([PassportID])
+)
