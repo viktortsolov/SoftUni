@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CodeFirstDemo
+build_property.ProjectDir = E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\02. ORM Fundamentals\OrmFundamentalsDemo\CodeFirstDemo\
