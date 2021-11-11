@@ -5,7 +5,12 @@
       "ProjectGuid": "6dc3e23c-1f1e-4344-9dd5-1ad92a2560a6",
       "DisplayName": "OrmFundamentals",
       "ColorIndex": 0
+    },
+    "c2582206-3454-4154-8454-4fb82b8c9abe": {
+      "ProjectGuid": "c2582206-3454-4154-8454-4fb82b8c9abe",
+      "DisplayName": "CodeFirstDemo",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
