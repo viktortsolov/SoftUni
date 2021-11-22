@@ -19,6 +19,7 @@
             Console.WriteLine(result);
         }
 
+        //Problem 1
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
             StringBuilder stringBuilder = new StringBuilder();
@@ -40,6 +41,7 @@
             return stringBuilder.ToString().TrimEnd();
         }
 
+        //Problem 2
         public static string GetGoldenBooks(BookShopContext context)
         {
             StringBuilder stringBuilder = new StringBuilder();
@@ -59,6 +61,8 @@
             return stringBuilder.ToString().TrimEnd();
         }
 
+        //Problem 3
+        //TODO: Judje problem!
         public static string GetBooksByPrice(BookShopContext context)
         {
             StringBuilder stringBuilder = new StringBuilder();
@@ -78,6 +82,7 @@
             return stringBuilder.ToString().Trim();
         }
 
+        //Problem 4
         public static string GetBooksNotReleasedIn(BookShopContext context, int year)
         {
             StringBuilder stringBuilder = new StringBuilder();
@@ -98,7 +103,8 @@
             return stringBuilder.ToString().Trim();
         }
 
-        //TODO:
+        //Problem 5
+        //TODO: Loop the categories
         public static void GetBooksByCategory(BookShopContext context, string input)
         {
             var stringBuilder = new StringBuilder();
@@ -114,6 +120,7 @@
             }
         }
 
+        //Problem 7
         public static string GetAuthorNamesEndingIn(BookShopContext context, string input)
         {
             var sb = new StringBuilder();
@@ -134,6 +141,7 @@
             return sb.ToString().Trim();
         }
 
+        //Problem 8
         public static string GetBookTitlesContaining(BookShopContext context, string input)
         {
             var sb = new StringBuilder();
@@ -154,6 +162,8 @@
             return sb.ToString().Trim();
         }
 
+        //Problem 9
+        //TODO: 25/100
         public static string GetBooksByAuthor(BookShopContext context, string input)
         {
             var sb = new StringBuilder();
