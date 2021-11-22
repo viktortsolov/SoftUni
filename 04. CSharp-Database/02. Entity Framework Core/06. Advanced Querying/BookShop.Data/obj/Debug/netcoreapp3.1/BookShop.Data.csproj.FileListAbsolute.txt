@@ -1,0 +1,13 @@
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb
