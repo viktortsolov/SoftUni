@@ -1,9 +1,0 @@
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.deps.json
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.dll
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfoInputs.cache
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfo.cs
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.CoreCompileInputs.cache
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.dll
-E:\Programming\SoftUni\04. CSharp-Database\02. Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.pdb
