@@ -35,7 +35,12 @@
             Console.WriteLine(ImportSales(context, salesXml));
             #endregion
 
-            //Console.WriteLine(GetCarsWithDistance(context));
+            Console.WriteLine(GetCarsWithDistance(context));
+            Console.WriteLine(GetSalesWithAppliedDiscount(context));
+            Console.WriteLine(GetCarsFromMakeBmw(context));
+            Console.WriteLine(GetLocalSuppliers(context));
+            Console.WriteLine(GetCarsWithTheirListOfParts(context));
+            Console.WriteLine(GetTotalSalesByCustomer(context));
             Console.WriteLine(GetSalesWithAppliedDiscount(context));
         }
 
@@ -243,7 +248,120 @@
         //15. Export Cars From Make BMW 
         public static string GetCarsFromMakeBmw(CarDealerContext context)
         {
-            return null;
+            StringBuilder sb = new StringBuilder();
+            using StringWriter stringWriter = new StringWriter(sb);
+
+            var xmlSerializer = GenerateXmlSerializer("cars", typeof(ExportCarsBMWDTO[]));
+            var namespaces = new XmlSerializerNamespaces();
+            namespaces.Add(String.Empty, String.Empty);
+
+            ExportCarsBMWDTO[] dtos = context
+                .Cars
+                .Where(x => x.Make == "BMW")
+                .OrderBy(x => x.Model)
+                .ThenByDescending(x => x.TravelledDistance)
+                .Select(x => new ExportCarsBMWDTO
+                {
+                    Id = x.Id.ToString(),
+                    Model = x.Model,
+                    TravelledDistance = x.TravelledDistance.ToString()
+                })
+                .ToArray();
+
+            xmlSerializer.Serialize(stringWriter, dtos, namespaces);
+
+            return stringWriter.ToString().Trim();
+        }
+
+        //16. Export Local Suppliers 
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+            using StringWriter stringWriter = new StringWriter(sb);
+
+            var xmlSerializer = GenerateXmlSerializer("suppliers", typeof(ExportLocalSuppliersDTO[]));
+            var namespaces = new XmlSerializerNamespaces();
+            namespaces.Add(String.Empty, String.Empty);
+
+            ExportLocalSuppliersDTO[] dtos = context
+                .Suppliers
+                .Where(x => x.IsImporter == false)
+                .Select(x => new ExportLocalSuppliersDTO()
+                {
+                    Id = x.Id.ToString(),
+                    Name = x.Name,
+                    PartsCount = x.Parts.Count().ToString()
+                })
+                .ToArray();
+
+            xmlSerializer.Serialize(stringWriter, dtos, namespaces);
+
+            return stringWriter.ToString().TrimEnd();
+        }
+
+        //17. Export Cars With Their List Of Parts 
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+            using StringWriter stringWriter = new StringWriter(sb);
+
+            var xmlSerializer = GenerateXmlSerializer("cars", typeof(ExportCarAndPartsDTO[]));
+            var namespaces = new XmlSerializerNamespaces();
+            namespaces.Add(String.Empty, String.Empty);
+
+            ExportCarAndPartsDTO[] dtos = context
+                .Cars
+                .OrderByDescending(x => x.TravelledDistance)
+                .ThenBy(x=>x.Model)
+                .Select(x => new ExportCarAndPartsDTO
+                {
+                    Make = x.Make,
+                    Model = x.Model,
+                    TravelledDistance = x.TravelledDistance.ToString(),
+                    Parts = x.PartCars
+                    .OrderByDescending(x => x.Part.Price)
+                    .Select(k => new ExportPartFromCarsDTO()
+                    {
+                        Name = k.Part.Name,
+                        Price = k.Part.Price.ToString()
+                    }).ToArray()
+                })
+                .Take(5)
+                .ToArray();
+
+            xmlSerializer.Serialize(stringWriter, dtos, namespaces);
+
+            return stringWriter.ToString().TrimEnd();
+        }
+
+        //18. Export Total Sales By Customer 
+        //TODO: Вдигам ръце.
+        public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            StringBuilder sb = new StringBuilder();
+            using StringWriter stringWriter = new StringWriter(sb);
+
+            var xmlSerializer = GenerateXmlSerializer("customers", typeof(ExportSalesByCutomerDTO[]));
+            var namespaces = new XmlSerializerNamespaces();
+            namespaces.Add(String.Empty, String.Empty);
+
+            ExportSalesByCutomerDTO[] customers = context.Customers
+                .Where(x => x.Sales.Any())
+                .Select(c => new ExportSalesByCutomerDTO
+                {
+                    FullName = c.Name,
+                    BoughtCars = c.Sales.Count.ToString("f2"),
+                    SpentMoney = c.Sales.Select(x => x.Car)
+                                        .SelectMany(y => y.PartCars)
+                                        .Sum(z => z.Part.Price)
+                                        .ToString("f2")
+                })
+                .OrderByDescending(m => m.SpentMoney)
+                .ToArray();
+
+            xmlSerializer.Serialize(stringWriter, customers, namespaces);
+
+            return stringWriter.ToString().TrimEnd();
         }
 
         //19. Export Sales With Applied Discount 
