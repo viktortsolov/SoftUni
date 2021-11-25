@@ -11,8 +11,7 @@ namespace SoftUni
         {
             SoftUniContext context = new SoftUniContext();
 
-            var result = RemoveTown(context);
-            Console.WriteLine(result);
+            Console.WriteLine(GetEmployeesFullInformation(context));
         }
 
         //Problem 03
