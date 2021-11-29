@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4eedd12-2b80-4554-8d2d-2be18c1db5b1": {
+      "ProjectGuid": "d4eedd12-2b80-4554-8d2d-2be18c1db5b1",
+      "DisplayName": "MyQuizApplication",
+      "ColorIndex": 0
+    },
+    "b1c5a7aa-7baf-4027-8acc-1184e95723be": {
+      "ProjectGuid": "b1c5a7aa-7baf-4027-8acc-1184e95723be",
+      "DisplayName": "MyQuizApplication.Core",
+      "ColorIndex": 1
+    },
+    "eade4ba8-1455-43db-ab68-04e23459c8ba": {
+      "ProjectGuid": "eade4ba8-1455-43db-ab68-04e23459c8ba",
+      "DisplayName": "MyQuizApplication.Integrations",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
