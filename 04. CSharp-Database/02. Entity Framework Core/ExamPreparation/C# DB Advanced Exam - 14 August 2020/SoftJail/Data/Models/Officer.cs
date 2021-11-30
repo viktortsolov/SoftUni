@@ -16,11 +16,10 @@
         public int Id { get; set; }
 
         [Required]
-        [StringLength(30, MinimumLength = 3)]
+        [MaxLength(30)]
         public string FullName { get; set; }
 
         [Required]
-        [Range(0, (double)decimal.MaxValue)]
         public decimal Salary { get; set; }
 
         [Required]

@@ -14,16 +14,14 @@
         [Key]
         public int Id { get; set; }
 
-        [Required]
-        [Range(0, 1000)]
         public int CellNumber { get; set; }
 
-        [Required]
-        public bool HasWindow1 { get; set; }
+        public bool HasWindow { get; set; }
 
         [ForeignKey(nameof(Department))]
         public int DepartmentId { get; set; }
-        public Department Department { get; set; }
+
+        public virtual Department Department { get; set; }
 
         public virtual ICollection<Prisoner> Prisoners { get; set; }
     }

@@ -14,7 +14,7 @@
         public int Id { get; set; }
 
         [Required]
-        [StringLength(25, MinimumLength = 3)]
+        [MaxLength(25)]
         public string Name { get; set; }
 
         public virtual ICollection<Cell> Cells { get; set; }
