@@ -1,0 +1,15 @@
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.exe
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.deps.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.runtimeconfig.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\bin\Debug\net6.0\ref\SUHttpServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.csproj.AssemblyReference.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.AssemblyInfo.cs
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\ref\SUHttpServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.genruntimeconfig.cache

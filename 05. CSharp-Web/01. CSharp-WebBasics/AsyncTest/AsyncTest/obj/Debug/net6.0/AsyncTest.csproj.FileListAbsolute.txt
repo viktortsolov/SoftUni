@@ -1,0 +1,15 @@
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\bin\Debug\net6.0\AsyncTest.exe
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\bin\Debug\net6.0\AsyncTest.deps.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\bin\Debug\net6.0\AsyncTest.runtimeconfig.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\bin\Debug\net6.0\AsyncTest.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\bin\Debug\net6.0\ref\AsyncTest.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\bin\Debug\net6.0\AsyncTest.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.AssemblyInfo.cs
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\ref\AsyncTest.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.genruntimeconfig.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\AsyncTest\AsyncTest\obj\Debug\net6.0\AsyncTest.csproj.AssemblyReference.cache

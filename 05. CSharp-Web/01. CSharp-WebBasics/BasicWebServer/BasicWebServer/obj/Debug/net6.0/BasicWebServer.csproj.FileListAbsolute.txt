@@ -1,0 +1,15 @@
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.exe
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.deps.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.runtimeconfig.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\bin\Debug\net6.0\ref\BasicWebServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.csproj.AssemblyReference.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.AssemblyInfo.cs
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\ref\BasicWebServer.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
