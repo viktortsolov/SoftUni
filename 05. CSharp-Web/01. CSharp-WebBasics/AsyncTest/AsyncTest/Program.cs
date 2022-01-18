@@ -2,30 +2,18 @@
 {
     public class Program
     {
-        public static void Main()
+        public static async Task Main()
         {
-            long sum = 0;
+            string url = "https://softuni.bg";
 
-            Task.Run(() =>
+            using (HttpClient client = new HttpClient())
             {
-                for (long i = 0; i < 1000000000; i++)
-                {
-                    sum += i;
-                    Thread.Sleep(1000);
-                }
-            });
+                var result = await client.GetAsync(url);
 
-            while (true)
-            {
-                string command = Console.ReadLine();
-
-                if (command == "show")
+                if (result.IsSuccessStatusCode)
                 {
-                    Console.WriteLine(sum);
-                }
-                else if (command == "exit")
-                {
-                    return;
+                    string content = await result.Content.ReadAsStringAsync();
+                    Console.WriteLine(content);
                 }
             }
         }
