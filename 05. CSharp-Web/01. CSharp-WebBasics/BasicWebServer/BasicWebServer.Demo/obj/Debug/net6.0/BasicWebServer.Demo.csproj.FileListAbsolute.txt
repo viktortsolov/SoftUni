@@ -16,3 +16,7 @@ E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicW
 E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Demo\obj\Debug\net6.0\ref\BasicWebServer.Demo.dll
 E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.pdb
 E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Demo\obj\Debug\net6.0\BasicWebServer.Demo.genruntimeconfig.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Demo\bin\Debug\net6.0\Views\Home\Content.cshtml
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Demo\bin\Debug\net6.0\Views\Home\Html.cshtml
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Demo\bin\Debug\net6.0\Views\Users\Login.cshtml
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\BasicWebServer\BasicWebServer.Demo\bin\Debug\net6.0\Views\Home\HtmlFormPost.cshtml
