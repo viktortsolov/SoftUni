@@ -1,0 +1,13 @@
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.AssemblyReference.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+E:\Programming\SoftUni\05. CSharp-Web\01. CSharp-WebBasics\ExamPrep\Andreys\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mnr0NOXLdxW6ZdQyZQZVfCqnSs7Tmp+fMWLJ8mtdwyZFytJQQoB+67t4ym5lDFt0UyMF89cVo+y5cnJpbjjqfQ==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\SoftUni\\05. CSharp-Web\\01. CSharp-WebBasics\\ExamPrep\\CarShop\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

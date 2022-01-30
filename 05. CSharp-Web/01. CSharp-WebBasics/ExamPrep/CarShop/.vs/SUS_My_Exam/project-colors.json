@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4cc7bd25-8e82-4d37-b8e2-8f942654e611": {
+      "ProjectGuid": "4cc7bd25-8e82-4d37-b8e2-8f942654e611",
+      "DisplayName": "CarShop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
