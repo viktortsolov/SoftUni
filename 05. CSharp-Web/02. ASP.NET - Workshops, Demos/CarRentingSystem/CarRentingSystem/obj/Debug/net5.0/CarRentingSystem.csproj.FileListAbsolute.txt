@@ -392,3 +392,4 @@ E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingS
 E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\obj\Debug\net5.0\CarRentingSystem.pdb
 E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\obj\Debug\net5.0\CarRentingSystem.genruntimeconfig.cache
 E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\obj\Debug\net5.0\Razor\Views\Cars\Add.cshtml.g.cs
+E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\obj\Debug\net5.0\Razor\Views\Cars\All.cshtml.g.cs
