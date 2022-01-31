@@ -15,7 +15,10 @@
         public string Model { get; init; }
 
         [Required]
-        [StringLength(int.MaxValue, MinimumLength = CarDescriptionMinLength)]
+        [StringLength(
+            int.MaxValue,
+            MinimumLength = CarDescriptionMinLength,
+            ErrorMessage = "The field 'Description' must be a string with a minimum length of {2}.")]
         public string Description { get; init; }
 
         [Required]
