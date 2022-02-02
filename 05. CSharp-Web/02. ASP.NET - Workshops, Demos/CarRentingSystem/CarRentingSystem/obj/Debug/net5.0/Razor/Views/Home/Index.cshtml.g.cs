@@ -40,8 +40,15 @@ using CarRentingSystem.Models.Home;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\Views\_ViewImports.cshtml"
+using CarRentingSystem.Models.Dealers;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a6551f4ddb8171ac3823411531e5ede19fea5e3f", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1c819cbb5e629d13ec53bf5bab22c85b4e7cb047", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cb24424352364bf29d41f4eb549cce085bbae5c8", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IndexViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Cars", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -110,7 +117,7 @@ using CarRentingSystem.Models.Home;
         <hr class=""my-4"">
         <p class=""lead"">
             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f6948", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f7197", async() => {
                 WriteLiteral("Add Car");
             }
             );
@@ -173,7 +180,7 @@ WriteAttributeValue(" ", 1004, firstCar.Model, 1005, 15, false);
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(">\r\n            <div class=\"carousel-caption d-none d-md-block\">\r\n                <h5>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f10428", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f10677", async() => {
 #nullable restore
 #line 35 "E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\Views\Home\Index.cshtml"
                                                                                                                  Write(firstCar.Brand);
@@ -264,7 +271,7 @@ WriteAttributeValue(" ", 1460, secondCar.Model, 1461, 16, false);
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(">\r\n            <div class=\"carousel-caption d-none d-md-block\">\r\n                <h5>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f15494", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f15743", async() => {
 #nullable restore
 #line 45 "E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\Views\Home\Index.cshtml"
                                                                                                                   Write(secondCar.Brand);
@@ -355,7 +362,7 @@ WriteAttributeValue(" ", 1916, thirdCar.Model, 1917, 15, false);
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(">\r\n            <div class=\"carousel-caption d-none d-md-block\">\r\n                <h5>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f20561", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6551f4ddb8171ac3823411531e5ede19fea5e3f20810", async() => {
 #nullable restore
 #line 55 "E:\Programming\SoftUni\05. CSharp-Web\02. ASP.NET - Workshops, Demos\CarRentingSystem\CarRentingSystem\Views\Home\Index.cshtml"
                                                                                                                  Write(thirdCar.Brand);
