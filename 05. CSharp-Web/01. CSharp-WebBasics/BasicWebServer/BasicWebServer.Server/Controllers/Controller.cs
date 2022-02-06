@@ -11,7 +11,7 @@ namespace BasicWebServer.Server.Controllers
             this.Request = request;
         }
 
-        protected Request Request { get; private init; }
+        protected Request Request { get; set; }
 
         protected Response Text(string text) => new TextResponse(text);
         protected Response Html(string html, CookieCollection cookies = null)

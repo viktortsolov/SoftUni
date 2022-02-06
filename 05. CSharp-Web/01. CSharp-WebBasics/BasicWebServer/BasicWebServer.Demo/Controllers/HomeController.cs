@@ -1,4 +1,5 @@
 ﻿using BasicWebServer.Demo.Models;
+using BasicWebServer.Server.Attributes;
 using BasicWebServer.Server.Controllers;
 using BasicWebServer.Server.HTTP;
 using System.Text;
@@ -50,10 +51,13 @@ namespace BasicWebServer.Demo.Controllers
 
         public Response Index() => Text("Hello from the server!");
 
+        public Response Student(string name, int age) => Text($"I am {name} and I am {age} years old.");
+
         public Response Redirect() => Redirect("https://github.com/viktortsolov");
 
         public Response Html() => View();
 
+        [HttpPost]
         public Response HtmlFormPost()
         {
             var name = this.Request.Form["Name"];
