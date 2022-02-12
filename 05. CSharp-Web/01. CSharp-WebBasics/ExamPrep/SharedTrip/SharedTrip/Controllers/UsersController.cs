@@ -22,10 +22,24 @@ namespace SharedTrip.Controllers
         }
 
         public Response Login()
-            => View();
+        {
+            if (User.IsAuthenticated)
+            {
+                return Redirect("/Trips/All");
+            }
+
+            return View();
+        }
 
         public Response Register()
-            => View();
+        {
+            if (User.IsAuthenticated)
+            {
+                return Redirect("/Trips/All");
+            }
+
+            return View();
+        }
 
         [HttpPost]
         public Response Register(RegisterViewModel model)

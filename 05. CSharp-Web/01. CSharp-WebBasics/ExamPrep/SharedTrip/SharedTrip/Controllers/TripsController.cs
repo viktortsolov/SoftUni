@@ -45,14 +45,14 @@ namespace SharedTrip.Controllers
                 return View(new List<ErrorViewModel>() { new ErrorViewModel("Unexpected Error") }, "/Error");
             }
 
-            return Redirect("/");
+            return Redirect("/Trips/All");
         }
 
         [Authorize]
         public Response All()
         {
             IEnumerable<TripListViewModel> trips = tripService.GetAllTrips();
-            
+
             return View(trips);
         }
 
@@ -62,6 +62,24 @@ namespace SharedTrip.Controllers
             TripDetailsViewModel tripDetailsViewModel = tripService.GetTripDetails(tripId);
 
             return View(tripDetailsViewModel);
+        }
+
+        public Response AddUserToTrip(string tripId)
+        {
+            try
+            {
+                tripService.AddUserToTrip(tripId, User.Id);
+            }
+            catch (ArgumentException aex)
+            {
+                return View(new List<ErrorViewModel>() { new ErrorViewModel(aex.Message) }, "/Error");
+            }
+            catch (Exception)
+            {
+                return View(new List<ErrorViewModel>() { new ErrorViewModel("Unexpected Error") }, "/Error");
+            }
+
+            return Redirect("/Trips/All");
         }
     }
 }

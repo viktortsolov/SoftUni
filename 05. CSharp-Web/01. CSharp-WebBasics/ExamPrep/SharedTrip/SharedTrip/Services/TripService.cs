@@ -44,6 +44,30 @@ namespace SharedTrip.Services
             repo.SaveChanges();
         }
 
+        public void AddUserToTrip(string tripId, string userId)
+        {
+            var user = repo.All<User>()
+                .FirstOrDefault(u => u.Id == userId);
+
+            var trip = repo.All<Trip>()
+                .FirstOrDefault(t => t.Id == tripId);
+
+            if (user == null || trip == null)
+            {
+                throw new ArgumentException("USer or trip not found!");
+            }
+
+            user.UserTrips.Add(new UserTrip()
+            {
+                TripId = tripId,
+                UserId = userId,
+                Trip = trip,
+                User = user
+            });
+
+            repo.SaveChanges();
+        }
+
         public IEnumerable<TripListViewModel> GetAllTrips()
         {
             return repo.All<Trip>()
