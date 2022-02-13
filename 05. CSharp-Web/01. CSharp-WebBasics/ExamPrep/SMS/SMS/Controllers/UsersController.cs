@@ -31,7 +31,22 @@
         [HttpPost]
         public Response Login(LoginViewModel model)
         {
-            return View(new { IsAuthenticated = true });
+            Request.Session.Clear();
+
+            string id = userService.Login(model);
+
+            if (id == null)
+            {
+                return View(new { ErrorMessage = "Incorrect username or password" }, "/Error");
+            }
+
+            SignIn(id);
+
+            CookieCollection cookies = new CookieCollection();
+            cookies.Add(Session.SessionCookieName,
+                Request.Session.Id);
+
+            return Redirect("/");
         }
 
         public Response Register()

@@ -2,23 +2,47 @@
 {
     using BasicWebServer.Server.Controllers;
     using BasicWebServer.Server.HTTP;
+    using SMS.Contracts;
+    using SMS.Models.Products;
+    using System.Collections.Generic;
 
     public class HomeController : Controller
     {
-        public HomeController(Request request) 
+        private readonly IUserService userService;
+
+        public HomeController(
+            Request request,
+            IUserService _userService)
             : base(request)
         {
+            userService = _userService;
         }
 
         public Response Index()
         {
-            var model = new 
+            if (User.IsAuthenticated)
             {
-                IsAuthenticated = User.IsAuthenticated
+                string username = userService.GetUsername(User.Id);
 
-            };
+                var model = new
+                {
+                    Username = username,
+                    IsAuthenticated = true,
+                    Products = new List<ProductListViewModel>()
+                    {
+                        new ProductListViewModel()
+                        {
+                            ProductName="TELEVIZIQ",
+                            ProductId ="ASHDHASDH",
+                            ProductPrice = "6lea bakq mi"
+                        }
+                    }
+                };
 
-            return this.View(model);
+                return View(model, "/Home/IndexLoggedIn");
+            }
+
+            return this.View(new { IsAuthenticated = false });
         }
     }
 }
