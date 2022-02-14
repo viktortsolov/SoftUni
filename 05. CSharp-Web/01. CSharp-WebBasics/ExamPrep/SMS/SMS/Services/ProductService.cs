@@ -2,7 +2,11 @@
 {
     using SMS.Contracts;
     using SMS.Data.Common;
+    using SMS.Data.Models;
     using SMS.Models.Products;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
 
     public class ProductService : IProductService
     {
@@ -17,14 +21,48 @@
             validationService = _validationService;
         }
 
-        public (bool created, string error) Create(CreateViewModel model)
+        public (bool created, string error) Create(CreateProductViewModel model)
         {
-            var (isValid, error) = validationService.ValidateModel(model);
+            bool created = false;
+            string error = null;
+
+            var (isValid, validationError) = validationService.ValidateModel(model);
 
             if (!isValid)
             {
-                return (isValid, error);
+                return (isValid, validationError);
             }
+
+            var product = new Product()
+            {
+                Name = model.Name,
+                Price = model.Price,
+            };
+
+            try
+            {
+                repo.Add(product);
+                repo.SaveChanges();
+                created = true;
+            }
+            catch (Exception)
+            {
+                error = "Could not save the product!";
+            }
+
+            return (created, error);
+        }
+
+        public IEnumerable<ProductListViewModel> GetProducts()
+        {
+            return repo.All<Product>()
+                .Select(x => new ProductListViewModel()
+                {
+                    ProductName = x.Name,
+                    ProductPrice = x.Price.ToString("F2"),
+                    ProductId = x.Id
+                })
+                .ToList();
         }
     }
 }

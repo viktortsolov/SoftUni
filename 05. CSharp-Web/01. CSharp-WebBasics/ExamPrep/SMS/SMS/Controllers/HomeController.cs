@@ -9,13 +9,17 @@
     public class HomeController : Controller
     {
         private readonly IUserService userService;
+        private readonly IProductService productService;
+
 
         public HomeController(
             Request request,
-            IUserService _userService)
+            IUserService _userService,
+            IProductService _productService)
             : base(request)
         {
             userService = _userService;
+            productService = _productService;
         }
 
         public Response Index()
@@ -28,15 +32,7 @@
                 {
                     Username = username,
                     IsAuthenticated = true,
-                    Products = new List<ProductListViewModel>()
-                    {
-                        new ProductListViewModel()
-                        {
-                            ProductName="TELEVIZIQ",
-                            ProductId ="ASHDHASDH",
-                            ProductPrice = "6lea bakq mi"
-                        }
-                    }
+                    Products = productService.GetProducts()
                 };
 
                 return View(model, "/Home/IndexLoggedIn");
