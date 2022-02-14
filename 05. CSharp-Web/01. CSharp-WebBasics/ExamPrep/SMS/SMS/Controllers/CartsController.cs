@@ -46,7 +46,7 @@
             {
                 products = products,
                 IsAuthenticated = true
-            }, "/Carts/Details");
+            });
         }
     }
 }
