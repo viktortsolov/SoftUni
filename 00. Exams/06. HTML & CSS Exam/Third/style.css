@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    margin: unset;
+}
+
+#header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 75%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    position: absolute;
+    top: 56px;
+}
+
+#header a{
+    text-decoration: none;
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+    color: white;
+    font-size: 40px;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.section {
+    height: 100vh;
+}
+
+#hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url('./image/computer-main.jpg');
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+}
+
+#hero .hero__title {
+    font-size: 80px;
+    color: white;
+    margin-bottom: 0;
+}
+
+#hero .hero__desc {
+    font-size: 40px;
+    color: white;
+    width: 45%;
+    text-align: center;
+}
+
+#hero .hero__btn {
+    padding: 10px 48px;
+    background-color: #01cf8d;
+    color: white;
+    border: 4px solid #01cf8d;
+    border-radius: 10%;
+    font-size: 32px;
+    margin-top: 5%;
+    font-weight: 600;
+}
+
+#hero .hero__btn:hover {
+    padding: 10px 48px;
+    background-color: transparent;
+    color: white;
+    border: 4px solid white;
+    border-radius: 10%;
+    font-size: 32px;
+    margin-top: 5%;
+    font-weight: 600;
+}
+
+#hero .hero__link {
+    margin-top: 5%;
+    font-size: 32px;
+    text-decoration: none;
+    color: white;
+}
+
+#hero .hero__link .icon {
+    margin-left: 15px;
+}
+
+#purpose {
+    display: flex;
+    flex-direction: row;
+    height: 70vh;
+}
+
+#purpose .purpose__img {
+    width: 53%;
+}
+
+#purpose .content {
+    padding: 32px;
+}
+
+#purpose .content__title {
+    font-size: 48px;
+}
+
+#purpose .content__desc {
+    font-size: 32px;
+}
+
+#purpose ul {
+    list-style: none;
+}
+
+#purpose ul li {
+    margin: 2%;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+#purpose ul li .icon {
+    margin-right: 2%;
+    color: #01cf8d;
+}
+
+#pen {
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+}
+
+#pen .recomendations__title {
+    font-size: 48px;
+    text-align: center;
+    font-weight: 800;
+}
+
+#pen .recomentations {
+    width: 50%;
+}
+
+#pen .recomentations .images__first {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+#pen .recomentations div img {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+#pen .recomentations div h2 {
+    text-align: center;
+    color: #01cf8d;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+#pen .recomentations .images__second {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+#pen img {
+    width: 53%;
+}
+
+#faq {
+    background-color: #b2f1dd;
+}
+
+#faq .faq__title {
+    margin: 0;
+    padding: 32px;
+    font-size: 48px;
+    text-align: center;
+}
+
+#faq .questions {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#faq .questions .question {
+    text-align: center;
+    margin: auto;
+    flex-basis: 33.333%;
+}
+
+#faq .questions .question h1 {
+    font-size: 32px;
+}
+
+#faq .questions .question p {
+    font-size: 24px;
+}
+
+#faq p {
+    text-align: center;
+    font-size: 24px;
+}
+
+#faq p a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+
+#faq {
+    height: 70vh;
+}

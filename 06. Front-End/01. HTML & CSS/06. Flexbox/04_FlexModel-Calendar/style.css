@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 65vw;
+
+    display:flex;
+}
+
+span {
+    border: 1px solid black;
+    text-transform: capitalize;
+    font-weight: bold;
+}

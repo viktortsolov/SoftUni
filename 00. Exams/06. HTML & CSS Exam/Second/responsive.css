@@ -1,0 +1,99 @@
+@media screen and (max-width: 600px) {
+    body {
+        width: 600px;
+        margin: unset;
+        padding: unset;
+    }
+
+    main {
+        margin: unset;
+        padding: unset;
+        width: auto;
+    }
+    
+    main section:nth-child(2) article,
+    main section:nth-child(4) article main section.left-to-right:nth-child(3) article {
+        padding: unset;
+        margin-left: unset;
+    }
+
+    form {
+        width: 600px;
+    }
+
+    
+    .left-to-right:first-child {
+        width: auto;
+        padding: 50px;
+    }
+
+    .left-to-right:first-child article button{
+        display: none;
+    }
+
+
+    .left-to-right:first-child article {
+        border-radius: 15%;
+        padding: 30px;
+    }
+
+    section:nth-child(2) {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 16px 32px;
+    }
+
+    section:nth-child(2) article header h1 {
+        font-size: 44px;
+    }
+
+    section:nth-child(2) article header p {
+        font-size: 22px;
+    }
+
+    section:nth-child(2) article p {
+        font-size: 18px;
+    }
+
+
+    section:nth-child(2) button {
+        display: none;
+    }
+
+    .left-to-right:nth-child(3) article {
+        border-radius: 15%;
+        padding: 30px;
+    }
+
+    .left-to-right:nth-child(3) article header h1 {
+        font-size: 40px;
+    }
+
+    .left-to-right:nth-child(3) article p {
+        font-size: 18px;
+    }
+
+    .left-to-right:nth-child(3) button {
+        display: none;
+    }
+
+    section:nth-child(4) {
+        flex-direction: column;
+    }
+
+
+    section:nth-child(4) article form label input,
+        section:nth-child(4) article form label textarea{
+        width: 90%;
+    }
+
+    section:nth-child(4) article:nth-child(2) img{
+        width: 50%;
+        margin: unset;
+    }
+
+    section:nth-child(4) article:nth-child(2){
+        align-items: center;
+    }
+}

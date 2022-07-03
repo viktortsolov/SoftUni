@@ -1,0 +1,36 @@
+.card {
+    width: 50%;
+    margin: auto;
+    border: 2px solid gainsboro;
+}
+
+.card .media {
+    height: 300px;
+    position: relative;
+}
+
+.card .media img {
+    object-fit: cover;
+    position: absolute;
+}
+
+.card .content {
+    padding: 12px;
+    position: relative;
+    height: 150px;
+}
+
+.card .content a{
+    position: absolute;
+    right: 5%;
+    bottom: 10%;
+    background-color: greenyellow;
+    border-radius: 3px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}

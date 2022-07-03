@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+:root {
+    --clr-red: #cb2027;
+    --clr-gray: #f5f5f5;
+    --clr-white: #fff;
+}
+
+body {
+    font-family: 'Courgette', serif;
+    background-color: var(--clr-gray);
+}
+
+#header {
+    margin: 24px auto;
+    text-align: center;
+    width: 20%;
+}
+
+#header .title {
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    margin: unset;
+}
+
+#header .subtitle {
+    color: var(--clr-red);
+    text-align: right;
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    margin: unset;
+}
+
+#wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#wrapper .item {
+    width: 25%;
+    margin: 20px;
+    border-radius: 15px;
+    background-color: var(--clr-white);
+
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#wrapper .item .item__img {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#wrapper .item .item__container {
+    padding: 6px 24px;
+    text-align: center;
+    height: 50%;
+}
+
+#wrapper .item .item__container .item__title {
+    font-size: 32px;
+    margin: unset;
+}
+
+#wrapper .item .item__container .divider {
+    background-color: var(--clr-red);
+    margin-top: 6px;
+    height: 1px;
+}
+
+#wrapper .item .item__container .item__desc {
+    font-size: 22px;
+    height: 50%;
+}
+
+#wrapper .item .item__container .item__link {
+    background-color: transparent;
+    border: unset;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#wrapper .item .item__container .item__link .icon {
+    color: var(--clr-red);
+}

@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.links a {
+    text-decoration: none;
+    font-size: 12px;
+    padding: 6px 10px;
+    border: 2px solid rgb(51, 51, 51);
+    border-radius: 21px;
+    color: rgb(51, 51, 51);
+}
+
+div.btns button,
+div.icon-btns button {
+    font-size: 14px;
+    padding: 6px 10px;
+    border-radius: 21px;
+    border-width: 1px;
+    cursor: pointer;
+}
+
+button.fill {
+    background-color: rgb(51, 51, 51);
+    color: rgb(251, 251, 251);
+}
+
+div button.hover:hover {
+    background-color: rgb(0, 102, 0);
+}
+
+div a.hover:hover {
+    border-color: rgb(0, 102, 0);
+    color: rgb(0, 102, 0);
+    background-color: rgb(251, 251, 251);
+}

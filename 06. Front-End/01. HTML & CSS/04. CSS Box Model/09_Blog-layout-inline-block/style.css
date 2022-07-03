@@ -1,0 +1,24 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    color: rgb(51, 51, 51);
+    margin: 10px;
+    padding: 10px;
+}
+
+aside {
+    float: right;
+}
+
+header,
+section,
+footer {
+    width: 50%;
+}
+
+img {
+    width: 250px;
+}
